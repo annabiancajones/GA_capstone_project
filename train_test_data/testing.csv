@@ -1,362 +1,362 @@
-sentence,sentiment,lem_words,lem_type
-Authentic Shanghai style and I cannot recommend a better Shanghai place in New York.,2,authentic shanghai style recommend better shanghai place new york,JJ NN NN VB JJ NN NN NN NN
-The menu is limited but almost all of the dishes are excellent.,0,menu be limited almost dish be excellent,NN VB JJ RB NN VB JJ
-"Food is usually very good, though ocasionally I wondered about freshmess of raw vegatables in side orders.",0,food be usually very good ocasionally wonder freshmess raw vegatable side order,NN VB RB RB JJ RB VB NN JJ NN NN NN
-It is very overpriced and not very tasty.,0,be very overpriced not very tasty,VB RB JJ RB RB JJ
-"It is set far from the small street it's on, and there is no traffic noise.",2,be set far small street be traffic noise,VB VB RB JJ NN VB NN NN
-"Anybody who likes this place must be from a different planet, where greasy, dry and tasteless are complimentary.",0,anybody like place be different planet greasy dry tasteless be complimentary,NN VB NN VB JJ NN JJ NN JJ VB JJ
-The tuna and wasabe potatoes are excellent.,2,tuna wasabe potato be excellent,NN NN NN VB JJ
-"Great food, great prices, great service.",2,great food great price great service,JJ NN JJ NN JJ NN
-Wait staff is blantently unappreciative of your business but its the best pie on the UWS!,2,wait staff be blantently unappreciative business best pie uws,JJ NN VB RB JJ NN JJ NN NN
-It is simply amazing.,2,be simply amazing,VB RB JJ
-Kind of a small place but I guess if they are not too busy might be able to fit a group or kids.,1,kind small place guess be not too busy be able fit group kid,NN JJ NN NN VB RB RB JJ VB JJ VB NN NN
-Great pizza and fantastic service.,2,great pizza fantastic service,JJ NN JJ NN
-"sometimes i get bad food and bad service, sometimes i get good good and bad service.",2,sometimes get bad food bad service sometimes get good good bad service,RB VB JJ NN JJ NN RB VB JJ JJ JJ NN
-The bar is very well stocked with interesting beers and well priced wines.,2,bar be very well stock interesting beer well price wine,NN VB RB RB VB JJ NN RB VB NN
-"The place is small and intimate and you may feel a little crowded, but the service is excellent and it's great for friends out, a romantic date, or a special occassion.",0,place be small intimate feel little crowded service be excellent great friend romantic date special occassion,NN VB JJ JJ VB JJ JJ NN VB JJ JJ NN JJ NN JJ NN
-bottles of wine are cheap and good.,2,bottle wine be cheap good,NN NN VB JJ JJ
-"In any event, this is a place I'll be sure to stop by again when I'm in this part of town.",2,event be place be sure stop again part town,NN VB NN VB JJ VB RB NN NN
-Food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when I went.,2,food be good view new york city skiline be terrific even foggy rainy day go,NN VB JJ NN NN NN NN NN VB JJ RB JJ JJ NN VB
-I thought this place was totally overrated.,0,think place be totally overrate,VB NN VB RB VB
-"service is friendly, and never had a problem walking in and getting a table.",2,service be friendly never have problem walking get table,NN VB JJ RB VB NN NN VB NN
-It was pretty inexpensive too.,2,be pretty inexpensive too,VB JJ JJ RB
-"You are not eating haut cuisine with subtle hints of whatever but: Cassuolet, Steake Fritte, Tripe Stew, etc; simple stuff.",2,be not eat haut cuisine subtle hint cassuolet steake fritte tripe stew etc simple stuff,VB RB VB JJ NN JJ NN VB NN NN NN NN JJ JJ NN
-"The portions are HUGE, so it might be good to order three things to split (rather than one appetizer and entree per person) for two people.",1,portion be huge be good order thing split rather appetizer entree person person,NN VB JJ VB JJ NN NN VB RB NN NN NN NN
-Great food and the prices are very reasonable.,2,great food price be very reasonable,JJ NN NN VB RB JJ
-Was surprisingly disappointed.,0,be surprisingly disappoint,VB RB VB
-"During the course of the past 3 months, the chef and staff changed and it was not for the better.",0,course past month chef staff change be not better,NN JJ NN NN NN VB VB RB JJ
-So rushing us out was absolutely unnecessary!,0,so rush be absolutely unnecessary,RB VB VB RB JJ
-"I went to Areo on a Sunday afternoon with four of my girlfriends, and spent three enjoyable hours there.",2,go areo sunday afternoon girlfriend spend enjoyable hour there,VB VB NN NN NN VB JJ NN RB
-The service is good and ambience is good for a date or group outing.,2,service be good ambience be good date group outing,NN VB JJ NN VB JJ NN NN NN
-"My husband and I thougt it would be great to go to the Jekyll and Hyde Pub for our anniversary, and to our surprise it was fantastic.",2,husband thougt be great go jekyll hyde pub anniversary surprise be fantastic,NN NN VB JJ VB NN JJ NN NN NN VB JJ
-Baluchi's has solid food and a nice decor at reasonable prices.,2,baluchi have solid food nice decor reasonable price,NN VB JJ NN JJ NN JJ NN
-Would NEVER go back there.,0,never go back there,RB VB RB RB
-Great staff.,2,great staff,JJ NN
-honestly the worst sushi my husband and i had in our entire lives.,0,honestly worst sushi husband have entire life,RB JJ NN NN VB JJ NN
-Go hungry and enjoy.,2,go hungry enjoy,VB JJ NN
-"Conveniently located too, being right on Bedford ave.",2,conveniently locate too be right bedford ave,RB VB RB VB RB NN VB
-"Cute place, nice wait staff but would never go there again.",2,cute place nice wait staff never go there again,JJ NN JJ NN NN RB VB RB RB
-The owner and staff are all Japanese as well and that adds to the entire ambiance.,2,owner staff be japanese as well add entire ambiance,NN NN VB RB RB RB VB JJ NN
-"Try the Pad Thai, or sample anything on the appetizer menu...they're all delicious.",2,try pad thai sample anything appetizer menu re delicious,VB NN NN NN NN NN NN NN JJ
-"The food was amazing, and the service was prompt and helpful, but not over-bearing or rushed.",2,food be amazing service be prompt helpful not bearing rush,NN VB JJ NN VB JJ JJ RB NN VB
-On a hot day it was fabulous to stop in and enjoy lunch.,2,hot day be fabulous stop enjoy lunch,JJ NN VB JJ VB JJ NN
-"If celebrities make you sweat, then your in for a ride, but if your like most around these parts then you'll just yawn and wonder whats with all the hype.",0,celebrity make sweat then ride most part then ll just yawn what hype,NN VB VB RB NN JJ NN RB VB RB NN VB NN
-I have been going back again and again.,2,have be go back again again,VB VB VB RB RB RB
-"However, go for the ambience, and consider the food just a companion for a trip across the world!",2,however go ambience consider food just companion trip world,RB VB NN VB NN RB NN NN NN
-Very affordable and excellent ambient!,2,very affordable excellent ambient,RB JJ JJ NN
-"While their kitchen food is delicious, their Sushi is out of this world.",2,kitchen food be delicious sushi be world,NN NN VB JJ NN VB NN
-Service is fast and friendly.,2,service be fast friendly,NN VB JJ JJ
-Not impressed with the food.,0,not impress food,RB VB NN
-"I found the food, service and value exceptional everytime I have been there.",2,find food service value exceptional everytime have be there,VB NN NN NN JJ NN VB VB RB
-Overall I would recommend it and go back again.,2,overall recommend go back again,JJ VB VB RB RB
-Fresh ingredients and everything is made to order.,2,fresh ingredient everything be make order,JJ NN NN VB VB NN
-"I have known about this secret for the last 13 years, Emilio(the Godfather) has continued to serve food and wine for the gods at mortal prices.",2,have know secret last year emilio the godfather have continue serve food wine god mortal price,VB VB NN JJ NN VB NN NN VB VB VB NN NN NN JJ NN
-I am reluctant to write because I would not want my jem of a pizza place to become overcrowded.,2,be reluctant write not want jem pizza place become overcrowded,VB JJ VB RB VB NN NN NN VB JJ
-Mizu is the Japenese find in Grammercy.,2,mizu be japenese find grammercy,NN VB RB VB NN
-We will be back.,2,be back,VB RB
-"Food was very good as well, considering that we tried the budget selection (though I wish the pork belly that I ordered was roasted a bit longer, so that fat was more of a melt-in-your-mouth experience).",0,food be very good well consider try budget selection wish pork belly order be roast bit longer fat be more melt mouth experience,NN VB RB JJ RB VB VB NN NN VB NN NN VB VB VB NN RB NN VB JJ VB NN NN
-"Most importantly, food is excellent.",2,most importantly food be excellent,RB RB NN VB JJ
-The service was friendly and the atmosphere was casual.,1,service be friendly atmosphere be casual,NN VB JJ NN VB JJ
-The counter service is bad.,0,counter service be bad,JJ NN VB JJ
-The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals.,2,service be fast friendly food be very tasty have best hot sauce add meal,NN VB JJ JJ NN VB RB JJ VB JJ JJ NN VB NN
-When I lived upstate for a while I would buy freeze the bagels and they would still be better than any else.,2,live upstate buy freeze bagel still be better else,VB JJ VB VB NN RB VB JJ RB
-"The dosas are skimpy, unattractive and drip with grease, and personally I'd drink popcorn topping before I'd eat another one of these.",0,dosa be skimpy unattractive drip grease personally drink popcorn top eat,NN VB JJ JJ NN NN RB NN NN VB VB
-"Raga's is a romantic, cozy restaurant.",2,raga be romantic cozy restaurant,VB VB JJ JJ NN
-But too far east!,0,too far east,RB RB JJ
-It's all about the food !!,2,food,NN
-The takeout is great too since they give high quality tupperware as well.,2,takeout be great too give high quality tupperware as well,NN VB JJ RB VB JJ NN VB RB RB
-"The service was attentive, yet discreet.",2,service be attentive yet discreet,NN VB JJ RB JJ
-A must try!,2,try,VB
-A little pricey but it really hits the spot on a Sunday morning!,0,little pricey really hit spot sunday morning,JJ JJ RB VB NN NN NN
-Food was good not great not worth the wait or another visit,0,food be good not great not wait visit,NN VB JJ RB JJ RB NN NN
-I LOVE their Thai,2,love thai,VB NN
-THE BIG COMPLAINT: NO TOASTING AVAILABLE.,0,big complaint toast available,JJ NN VB JJ
-The hostess and the waitress were incredibly rude and did everything they could to rush us out.,0,hostess waitress be incredibly rude do everything rush,NN NN VB RB JJ VB NN VB
-"Despite a slightly limited menu, everything prepared is done to perfection, ultra fresh and a work of food art.",0,slightly limited menu everything prepare be do perfection ultra fresh work food art,RB JJ NN NN VB VB VB NN JJ JJ NN NN NN
-I had never had Edamame pureed before but I thought it was innovative and tasty (could've used a bit more salt).,2,have never have edamame pureed before think be innovative tasty have used bit more salt,VB RB VB JJ NN RB VB VB JJ JJ VB VB NN JJ NN
-I absolutely love this place!!!,2,absolutely love place,RB VB NN
-The place is small and cramped but the food is fantastic.,2,place be small cramped food be fantastic,NN VB JJ JJ NN VB JJ
-"A few tips: skip the turnip cake, roast pork buns and egg custards.",0,few tip skip turnip cake roast pork bun egg custard,JJ NN VB NN NN NN NN NN NN NN
-"The portion sizes here are huge, and the sushi is good.",2,portion size here be huge sushi be good,NN NN RB VB JJ NN VB JJ
-I have been to Roth's twice and both times were very disappointing.,0,have be roth twice time be very disappointing,VB VB VB RB NN VB RB JJ
-"(The asparagus, truffle oil, parmesan bruschetta is a winner!)",2,asparagus truffle oil parmesan bruschetta be winner,NN NN NN NN NN VB NN
-Always great service!,2,always great service,RB JJ NN
-Slightly on the pricey side but worth it!,0,slightly pricey side worth,RB JJ NN JJ
-"The staff has been nice, but they seemed really stressed and the unisex bathroom needs to be cleaned more often.",0,staff have be nice seem really stressed unisex bathroom need be clean more often,NN VB VB JJ VB RB JJ NN NN NN VB VB RB RB
-I would go back.,2,go back,VB RB
-I am bringing my whole family back next time.,2,be bring whole family next time,VB VB JJ NN JJ NN
-What a great place.,2,great place,JJ NN
-Food is excellent.,2,food be excellent,NN VB JJ
-They smell like they stuff them with old canned vegetables like the spinach mushroom calzone.,0,smell stuff old canned vegetable spinach mushroom calzone,VB NN JJ JJ NN NN NN NN
-I ordered the smoked salmon and roe appetizer and it was off flavor.,0,order smoke salmon roe appetizer be off flavor,VB VB NN JJ NN VB JJ NN
-The staff is incredibly helpful and attentive.,2,staff be incredibly helpful attentive,NN VB RB JJ JJ
-I love it.,2,love,NN
-"Terrible, terrible management - deserves to be shut-down.",0,terrible terrible management deserve be shut,JJ JJ NN VB VB VB
-Atmosphere is nice and relaxed too...,2,atmosphere be nice relax too,NN VB JJ VB RB
-"The food was average to above-average; the French Onion soup filling yet not overly impressive, and the desserts not brilliant in any way.",0,food be average above french onion soup fill yet not overly impressive dessert not brilliant way,NN VB JJ VB JJ NN NN VB RB RB RB JJ NN RB JJ NN
-The food is so cheap and the waiters are nice.,2,food be so cheap waiter be nice,NN VB RB JJ NN VB JJ
-"Everytime I decide to try another place on the UES, I get angry that I didn't just go to Zucchero Pomodori.",2,everytime decide try place ue get angry didn just go pomodori,NN NN VB NN NN VB JJ VB RB VB NN
-"But after last night, Spice Grill is the only place I'm eating indian cuisine.",2,last night spice grill be only place eating indian cuisine,JJ NN NN NN VB JJ NN NN JJ NN
-wont come back again for sure!,0,wont come back again sure,JJ NN RB RB JJ
-In summer-eat outside on a terrace (another great feature of Suan)!!!,2,summer eat outside terrace great feature suan,NN NN NN NN JJ NN NN
-I stumbled upon this great pizzeria as I explored my new neighborhood.,2,stumble great pizzeria explore new neighborhood,VB JJ NN VB JJ NN
-The wine list is also really nice.,2,wine list be also really nice,NN NN VB RB RB JJ
-This is one of the best comfort food places in the city.,2,be best comfort food place city,VB JJ NN NN NN NN
-"Bagels are ok, but be sure not to make any special requests!",1,bagel be be sure not make special request,NN VB VB JJ RB VB JJ NN
-It was $14 not really bad for a pound of Pastrami-but it didn't have much taste-I've had better for less elsewhere!,1,be not really bad pound pastrami didn have much taste ve have better less elsewhere,VB RB RB JJ NN NN VB VB JJ NN NN VB RB JJ RB
-I went there for lunch and it was not as good as I expected from the reviews I read.,0,go there lunch be not good expect reviews read,VB RB NN VB RB JJ VB NN VB
-This is the BEST Shabu-Shabu Restaurant in the Try-State Area.,2,be best shabu shabu restaurant try state area,VB JJ NN NN NN JJ NN NN
-I did not try the caviar but I tried their salmon and crab salad (they are all good)  ,2,do not try caviar try salmon crab salad be good,VB RB VB NN VB NN NN NN VB JJ
-"I have eaten at Saul, many times, the food is always consistently, outrageously good.",2,have eat saul many time food be always consistently outrageously good,VB VB NN JJ NN NN VB RB RB RB JJ
-Service is average.,1,service be average,NN VB JJ
-It's a rather cramped and busy restaurant and it closes early.,0,rather cramped busy restaurant close early,RB JJ JJ NN VB RB
-We were not dissappointed in the least bit by this little gem.,2,be not dissappoint least bit little gem,VB RB VB JJ NN JJ NN
-A pleasant surprise.,2,pleasant surprise,JJ NN
-Food is great.,2,food be great,NN VB JJ
-A classic!,2,classic,JJ
-"Yes, they use fancy ingredients, but even fancy ingredients don't make for good pizza unless someone knows how to get the crust right.",2,yes use fancy ingredient even fancy ingredient don make good pizza someone know get crust right,RB VB JJ NN RB JJ NN VB VB JJ NN NN VB VB NN RB
-The server was really cool and served us our food and drinks with a smile.,2,server be really cool serve food drink smile,NN VB RB JJ VB NN NN NN
-They even scoop it out nice (for those on a diet) not too much not to little.,2,even scoop out nice diet not too much not little,RB VB RB JJ NN RB RB JJ RB JJ
-Enjoyed a very nice Caesar Salad while my wife had arugula and goat cheese....both very tasty.,2,enjoy very nice caesar salad wife have arugula goat cheese very tasty,VB RB JJ NN NN NN VB NN NN NN RB JJ
-"And it all comes at a very reasonable price (congee, noodles, and rice dishes are no more than $3-6 each).",2,come very reasonable price congee noodle rice dish be no more,VB RB JJ NN JJ NN NN NN VB RB JJ
-"A big disappointment, all around.",0,big disappointment,JJ NN
-Worth the trip from Manhattan.,2,trip manhattan,NN JJ
-There is a downside if you're ordering in -- the delivery guys have MAJOR attitude.,0,be downside re order delivery guy have major attitude,VB NN NN VB NN NN VB JJ NN
-"The view is spectacular, and the food is great.",2,view be spectacular food be great,NN VB JJ NN VB JJ
-Salads were fantastic.,2,salad be fantastic,NN VB JJ
-As always we had a great glass of wine while we waited.,2,always have great glass wine wait,RB VB JJ NN NN VB
-This place would be so much better served by being run by a group that actually understands customer service.,0,place be so much better serve be run group actually understand customer service,NN VB RB RB RB VB VB VB NN RB VB NN NN
-It's one of our favorite places to eat in NY.,2,favorite place eat ny,JJ NN VB NN
-The place's decor and hidden bathrooms made for a good laugh.,2,place decor hidden bathroom make good laugh,NN NN JJ NN VB JJ NN
-We won't go to this place again for a good meal.,0,win go place again good meal,VB VB NN RB JJ NN
-"But the best part about LS is the late night atmosphere, delightfully free of the BTs.",2,best part ls be late night atmosphere delightfully free bt,JJ NN NN VB JJ NN NN RB JJ NN
-I have been doing all of the above at the Heartland Brewery for over 5 years now and I HAVE NEVER BEEN DISAPPOINTED!,2,have be do above heartland brewery year now have never be disappoint,VB VB VB JJ NN NN NN RB VB RB VB VB
-too large for just two people but nothing was left.,0,too large just person nothing be left,RB JJ RB NN NN VB VB
-"When we sat, we got great and fast service.",2,sit get great fast service,VB VB JJ JJ NN
-Everything about this restaurant was special.,2,everything restaurant be special,NN NN VB JJ
-It is obvious that no one in the restaurant has any idea about or experience with Japanese cuisine.,0,be obvious one restaurant have idea about experience japanese cuisine,VB JJ NN NN VB NN RB NN JJ NN
-You can't go wrong here.,2,go wrong here,VB JJ RB
-The pizza is overpriced and soggy.,0,pizza be overpriced soggy,NN VB JJ JJ
-"Ask for Usha, the nicest bartender in manhattan.",2,ask usha nicest bartender manhattan,NN NN JJ NN JJ
-Much of the time it seems like they do not care about you.,0,much time seem do not care,JJ NN VB VB RB VB
-"For the people who want great food plus great service, Roxy is a place to AVOID!",0,person want great food great service roxy be place avoid,NN VB JJ NN JJ NN NN VB NN VB
-"When you add it all together, it just doesn't seem worth it to me...especially considering the prices.",0,add together just doesn seem especially consider price,VB RB RB JJ VB RB VB NN
-"Then, to top things off, she dropped used silverware on my boyfriend's jacket and did not stop to apologize or clean the mess that was left on clothes. ",0,then top thing drop used silverware boyfriend jacket do not stop apologize clean mess be left clothe,RB VB NN VB JJ NN NN NN VB RB VB VB VB NN VB VB NN
-I also recommend the rice dishes or the different varieties of congee (rice porridge).,2,also recommend rice dish different variety congee rice porridge,RB VB NN NN JJ NN JJ NN NN
-"I am so coming back here again, as much as I can.",2,be so coming back here again as much,VB RB JJ NN RB RB RB JJ
-"We concluded with tiramisu chocolate cake, both were delicious.",2,conclude tiramisu chocolate cake be delicious,VB NN NN NN VB JJ
-Prices are very good.,2,price be very good,NN VB RB JJ
-"Small servings for main entree, i had salmon (wasnt impressed) girlfriend had chicken, it was good.",0,small serving main entree have salmon wasnt impressed girlfriend have chicken be good,JJ NN JJ NN VB NN VB JJ NN VB NN VB JJ
-I look forward to eating here again,2,look forward eat here again,VB RB VB RB RB
-Give it a try and enjoy.,2,give try enjoy,VB NN NN
-"The service was terrible, we had to wait for everything and ask several of different people for the same thing before we were allowed to be served.",0,service be terrible have wait everything ask several different person same thing be allow be serve,NN VB JJ VB VB NN VB JJ JJ NN JJ NN VB VB VB VB
-Authentic Pakistani food.,2,authentic pakistani food,JJ NN NN
-"From the spectacular caviar to the hospitable waitstaff, I felt like royalty and enjoyed every second of it.",2,spectacular caviar hospitable waitstaff feel royalty enjoy second,JJ NN JJ NN VB NN VB JJ
-"The anti-pasta was excellent, especially the calamari, as were the filling pasta mains.",2,pasta be excellent especially calamari be fill pasta main,NN VB JJ RB NN VB VB NN NN
-The location is perfect.,2,location be perfect,NN VB JJ
-And amazingly cheap.,2,amazingly cheap,RB JJ
-"i happen to have a policy that goes along with a little bit of self-respect, which includes not letting a waiter intimidate me, i.e. make me feel bad asking for trivialities like water, or the check.",0,happen have policy go little bit self respect include not let waiter intimidate make feel bad ask triviality water check,VB VB NN VB JJ NN NN NN VB RB VB NN VB VB VB JJ VB NN NN NN
-Love Pizza 33..,2,love pizza,VB NN
-Can't wait to go back.,2,wait go back,VB VB RB
-"Rude service, medicore food...there are tons of restaurants in NY...stay away from this one",1,rude service medicore food be ton restaurant ny stay away one,JJ NN JJ NN VB NN NN NN VB RB NN
-"Try the Pad Thai, it's fabulous and their prices are so cheap!",2,try pad thai fabulous price be so cheap,VB NN NN JJ NN VB RB RB
-Hurley's is like Cheers where everyone knows your name and they are ACTUALLY glad you came.,2,hurley be cheer everyone know name be actually glad come,NN VB NN NN VB NN VB RB JJ VB
-Ess-A-Bagel (either by Sty-town or midtown) is by far the best bagel in NY.,2,ess bagel sty town midtown be far best bagel ny,RB NN JJ NN VB VB RB JJ NN NN
-"The first time I went, and was completely taken by the live jazz band and atmosphere, I ordered the Lobster Cobb Salad.",2,first time go be completely take live jazz band atmosphere order lobster cobb salad,JJ NN VB VB RB VB JJ NN NN NN VB NN JJ NN
-I'm partial to the Gnocchi.,2,partial gnocchi,JJ NN
-Keep up the good work guys!,2,keep good work guy,VB JJ NN NN
-LOVE the atmosphere - felt like I was in Paris.,2,love atmosphere feel be paris,VB NN VB VB NN
-Our server was very helpful and friendly.,2,server be very helpful friendly,NN VB RB JJ JJ
-I loved everythig about it-especially the shows and actors.,2,love everythig especially show actor,VB NN RB NN NN
-Definitely worth the trip to Battery Park City!,2,definitely trip battery park city,RB NN NN NN NN
-Go there once and oh yes...you will go back...you will...,2,go there once yes go back,VB RB RB RB VB RB
-I absolutely Loved this place.,2,absolutely love place,RB VB NN
-"I've also been amazed at all the new additions in the past few years: A new Jazz Bar, the most fantastic Dining Garden, the Best Thin Crust Pizzas, and now a Lasagna Menu which is to die for (these are not your average lasagnas)!",2,ve also be amaze new addition past few year new jazz bar most fantastic dining garden best thin crust pizza now lasagna menu be die be not average lasagna,NN RB VB VB JJ NN JJ JJ NN JJ NN NN RB JJ NN NN JJ JJ NN NN RB JJ NN VB VB VB RB NN NN
-"I like Cafe Noir dont get me wrong, it is jsut that the people who work there are evil and incompetent!!",2,cafe dont get wrong be jsut person work be evil incompetent,NN VB VB JJ VB RB NN VB VB JJ JJ
-"This is some really good, inexpensive sushi.",2,be really good inexpensive sushi,VB RB JJ JJ NN
-"Everything I had was good, and I'm a eater.",2,everything have be good eater,NN VB VB JJ NN
-We will definitely go back.,2,definitely go back,RB VB RB
-I highly recommend the Sophia pizza.,2,highly recommend sophia pizza,RB VB JJ NN
-"This tiny restaurant is as cozy as it gets, with that certain Parisian flair.",2,tiny restaurant be cozy get certain parisian flair,JJ NN VB JJ VB JJ JJ NN
-The sake menu should not be overlooked!,2,sake menu not be overlooked,NN NN RB VB JJ
-My friend got the mushroom pizza which tasted better.,2,friend get mushroom pizza taste better,NN VB NN NN VB RB
-I ate here a week ago and found most dishes average at best and too expensive.,0,eat here week ago find most dish average best too expensive,VB RB NN RB VB RB NN VB JJ RB JJ
-The Prix Fixe menu is worth every penny and you get more than enough (both in quantity AND quality).,2,prix fixe menu be worth penny get more enough quantity quality,NN JJ NN VB JJ NN VB JJ RB NN NN
-"The waitress, seems to be more concerned of looking good than actually waitressing.",0,waitress seem be more concerned look good actually waitressing,NN VB VB RB JJ VB JJ RB JJ
-"If you are looking for a good quality, cheap eats - this is the place.",2,be look good quality cheap eat be place,VB VB JJ NN RB VB VB NN
-"I come from a family of pizzeria owners, and I'm almost ashamed to say that the pizza in Fornino's blows my families receipies away.",2,come family pizzeria owner almost ashamed say pizza fornino blow family receipy away,VB NN NN NN RB JJ VB NN NN NN NN NN RB
-Everything we had was good or ok....but definitely nothing great.,1,everything have be good definitely nothing great,NN VB VB JJ RB NN JJ
-Open late (well as late as I ever got there and I'm a night person),2,open late well late ever get there night person,JJ RB RB RB RB VB RB NN NN
-It's definately not a place to go if you want to impress someone.,0,definately not place go want impress someone,RB RB NN VB VB VB NN
-"Overall, excellent restaurant!",2,overall excellent restaurant,JJ JJ NN
-Faan is sooo good.,2,faan be sooo good,NN VB RB JJ
-Excellent spot for holiday get togethers with co-workers or friends that you haven't seen in a while.,2,excellent spot holiday get together co worker friend haven see,JJ NN NN VB NN JJ NN NN NN VB
-The shrimp scampi was excellent and the antipasti were plentiful.,2,shrimp scampi be excellent antipastus be plentiful,NN NN VB JJ NN VB JJ
-"Other guests enjoyed pizza, santa fe chopped salad and fish and chips.",2,other guest enjoyed pizza santa fe chopped salad fish chip,JJ NN JJ NN NN NN JJ NN NN NN
-"It is terrific, as is the value.",2,be terrific be value,VB JJ VB NN
-I have never before eaten 40 pieces of relatively good nigiri.,1,have never before eat piece relatively good nigiri,VB RB VB VB NN RB JJ NN
-Murray won't do it.,0,murray win do,JJ VB VB
-A little pricey but it really hits the spot on a Sunday morning!,2,little pricey really hit spot sunday morning,JJ JJ RB VB NN NN NN
-"The signs, the specials menus, food, and even all the waitstaff are ALL TOTALLY Japanese.",2,sign special menu food even waitstaff be totally japanese,NN NN NN NN RB NN VB RB JJ
-Go here for a romantic dinner but not for an all out wow dining experience.,0,go here romantic dinner not all out dining experience,VB RB JJ NN RB RB RB JJ NN
-"This is a great place to take out-of-towners, and perfect for watching the sunset.",2,be great place take towner perfect watch sunset,VB JJ NN VB NN JJ VB NN
-The lava cake dessert was incredible and I recommend it.,2,lava cake dessert be incredible recommend,NN NN NN VB JJ VB
-My chow fun and chow see was really bland and oily.,0,chow fun chow see be really bland oily,NN NN NN NN VB RB JJ JJ
-"The atmosphere is unheralded, the service impecible, and the food magnificant.",2,atmosphere be unheralded service impecible food magnificant,NN VB JJ NN JJ NN NN
-"My husbands was perfect, my was well done and dry.",2,husband be perfect be well do dry,NN VB JJ VB RB VB JJ
-They charge different prices all the time.,0,charge different price time,VB JJ NN NN
-The service is awful.,0,service be awful,NN VB JJ
-The outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful.,2,outdoor atmosphere sit sidewalk watch world go foot away avenue cool evening be wonderful,JJ NN VB NN VB NN VB NN RB NN JJ NN VB JJ
-I recently tried Suan and I thought that it was great.,2,recently try suan think be great,RB VB JJ VB VB JJ
-I will be out with friends and all of a sudden I am hungry and I only crave one thing... their Pizza.,2,be out friend sudden be hungry only crave thing pizza,VB RB NN JJ VB JJ RB VB NN NN
-"The fish was really,really fresh.",2,fish be really really fresh,NN VB RB RB JJ
-The food was absolutely amazing!!,2,food be absolutely amazing,NN VB RB JJ
-I'm glad I was introduced to this place and this is a rare gem in NY.,2,glad be introduce place be rare gem ny,JJ VB VB NN VB JJ NN NN
-THe perfect spot.,2,perfect spot,JJ NN
-It looked like shredded cheese partly done - still in strips.,0,look shredded cheese partly do still strip,VB JJ NN RB VB RB NN
-"Try everything for that matter, it is all good.",2,try everything matter be good,NN NN NN VB JJ
-Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.,2,add great service great food reasonable price have begin great evening,VB JJ NN JJ NN JJ NN VB VB JJ NN
-Food-awesome.,2,food awesome,NN JJ
-It is definitely a good spot for snacks and chat.,2,be definitely good spot snack chat,VB RB JJ NN NN NN
-Food was good not great not worth the wait or another visit,1,food be good not great not wait visit,NN VB JJ RB JJ RB NN NN
-I'm going back.,2,go back,VB RB
-"I had their eggs benedict for brunch, which were the worst in my entire life, I tried removing the hollondaise sauce completely that was how failed it was.",0,have egg benedict brunch be worst entire life try remove hollondaise sauce completely be failed be,VB NN NN NN VB JJ JJ NN VB VB NN NN RB VB JJ VB
-This place is not worth the prices.,0,place be not price,NN VB RB NN
-HIGHLY RECOMMENDED!!!!!,2,highly recommend,RB VB
-"The waitress moved our table practically into the bathroom and when we asked to cancel our dinner orders because we did not want to eat sitting on the toilet, we were told no...",0,waitress move table practically bathroom ask cancel dinner order do not want eat sit toilet be tell,NN VB NN RB NN VB VB NN NN VB RB VB VB VB NN VB VB
-Unique apppetizers.,2,unique apppetizer,JJ NN
-"sometimes i get bad food and bad service, sometimes i get good good and bad service.",0,sometimes get bad food bad service sometimes get good good bad service,RB VB JJ NN JJ NN RB VB JJ JJ JJ NN
-"They forgot a sandwich, didn't include plastic forks, and didn't include pita with the hummus platter.",0,forget sandwich didn include plastic fork didn include pita hummus platter,VB NN VB VB JJ NN VB VB JJ JJ JJ
-Get the pepperoni - YUM - and a family style salad.,2,get pepperoni yum family style salad,VB NN NN NN NN NN
-I have been to Rao's probably 15 times the past 3 years and it keeps getting better.,2,have be rao probably time past year keep get better,VB VB VB RB NN JJ NN VB VB JJ
-"The large selection of bruschettas, paninis, tramezzinis keep the palate from stagnating.",2,large selection bruschetta paninis tramezzinis keep palate stagnate,JJ NN NN NN NN VB NN VB
-"I found it on a cold night, the perfect spot to warm up.",2,find cold night perfect spot warm,VB JJ NN JJ NN VB
-"The crust is thin, the ingredients are fresh and the staff is friendly.",2,crust be thin ingredient be fresh staff be friendly,NN VB JJ NN VB JJ NN VB JJ
-"Whether it's the parmesean porcini souffle or the lamb glazed with balsamic vinegar, you will surely be transported to Northern Italy with one bite.",2,parmesean porcini souffle lamb glaze balsamic vinegar surely be transport northern italy bite,NN NN NN NN VB JJ NN RB VB VB JJ NN NN
-Also they were $15 each!,0,also be,RB VB
-Traditional French decour was pleasant though the hall was rather noisy - the restaurant was full and we had to raise our voices to be able to maintain a conversation.,0,traditional french decour be pleasant hall be rather noisy restaurant be full have raise voice be able maintain conversation,JJ JJ NN VB JJ NN VB RB JJ NN VB JJ VB VB NN VB JJ VB NN
-Tiny dessert was $8.00...just plain overpriced for what it is.,0,tiny dessert be just plain overpriced be,JJ NN VB RB RB JJ VB
-The duck confit is always amazing and the foie gras terrine with figs was out of this world.,2,duck confit be always amazing foie gra terrine fig be world,NN NN VB RB JJ NN VB NN NN VB NN
-"Fabulous decor - makes you feel like you're in a trendy Manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a Manhattanite, or spend most of your time in Manhattan, Rice Avenue will make you feel at home.....very Soho/Village/Upper West Side minus the expensive prices and pretentious clientele.....all on Roosevelt Avenue!",2,fabulous decor make feel re trendy manhattan restaurant very very good food cheaply price generally friendly staff re manhattanite spend most time manhattan rice avenue make feel home very soho village upper west side expensive price pretentious clientele roosevelt avenue,JJ NN VB VB NN JJ NN NN RB RB JJ NN RB VB RB JJ NN NN NN VB RB NN JJ NN NN VB VB NN RB JJ NN JJ NN NN JJ NN JJ NN NN NN
-"This place is pricey, and yes, the food is worth it; but the service makes you feel like you should be paying a quater of the price.",2,place be pricey yes food be worth service make feel be pay quater price,NN VB JJ RB NN VB JJ NN VB VB VB VB NN NN
-It was divine melts in your mouth.,2,be divine melt mouth,VB JJ VB NN
-Somehow working the italian charm with constant mille grazie does not constitute proper service.,0,somehow italian charm constant mille grazie do not constitute proper service,RB JJ NN JJ NN NN VB RB JJ JJ NN
-You can't go wrong with this place.,2,go wrong place,VB JJ NN
-A little overpriced but worth it once you take a bite.,2,little overpriced worth once take bite,JJ JJ JJ RB VB NN
-Taxan delicious!,2,taxan delicious,NN JJ
-Love YUKA.,2,love yuka,VB RB
-JUST AWSOME.,2,just,RB
-"This place, which is only a few months old, is perhaps Queens' biggest secret!",2,place be only few month old be perhaps queen biggest secret,NN VB RB JJ NN JJ VB RB NN JJ VB
-You should pass on the calamari.,0,pass calamari,VB NN
-Thank You Emilio.,2,thank emilio,NN NN
-Loved it!,2,love,VB
-"Luckily we saved room for the BBQ Salmon, Sea Bass and Crispy Duck.",2,luckily save room bbq salmon sea bass crispy duck,RB VB NN JJ NN NN NN JJ NN
-"The fish was adequate, but inexpertly sliced.",0,fish be adequate inexpertly slice,NN VB JJ RB VB
-Wonderful at holiday time.,2,wonderful holiday time,JJ NN NN
-Slightly on the pricey side but worth it!,2,slightly pricey side worth,RB JJ NN JJ
-"So close, but not good enough.",1,so close not good enough,RB JJ RB JJ JJ
-I'm sure I'll return for a final judgement tho.,1,sure ll return final judgement tho,JJ NN NN JJ NN NN
-Mizu is home to creative and unique rolls not to found anywhere else.,2,mizu be home creative unique roll not find anywhere else,NN VB NN JJ JJ NN RB VB RB RB
-"For the price, you cannot eat this well in Manhattan.",2,price eat well manhattan,NN VB RB JJ
-Highly recommended to all!,2,highly recommend,RB VB
-I go twice a month!,2,go twice month,VB RB NN
-"Considering we were the last patrons there and it was after the closing time, the waitstaff did not rush us at all and made us feel comfortable and relaxed.",2,consider be last patron there be closing time waitstaff do not rush make feel comfortable relax,VB VB JJ NN RB VB JJ NN NN VB RB VB VB VB JJ VB
-"Not only is the cuisine the best around, the service has always been attentive and charming.",2,not only be cuisine best service have always be attentive charming,RB RB VB NN JJ NN VB RB VB JJ JJ
-"My friends settled for rice dishes, but we came back the following day to try the dim sum, which was good...not outstanding, but good.",1,friend settle rice dish come back following day try dim sum be good not outstanding good,NN VB NN NN VB RB JJ NN VB JJ NN VB JJ RB JJ JJ
-The characters really make for an enjoyable experience.,2,character really make enjoyable experience,NN RB VB JJ NN
-Decent wine at reasonable prices.,1,decent wine reasonable price,JJ NN JJ NN
-skip dessert.,0,skip dessert,NN NN
-The price is reasonable although the service is poor.,2,price be reasonable service be poor,NN VB JJ NN VB JJ
-The portions are large and the servers always surprise us with a different starter.,2,portion be large server always surprise different starter,NN VB JJ NN RB VB JJ NN
-"The dinner was ok, nothing I would have again.",0,dinner be nothing have again,NN VB NN VB RB
-"Quite frankly, this is some of the worst sushi I have ever tried.",0,quite frankly be worst sushi have ever try,RB RB VB JJ NN VB RB VB
-I've never had bad service and the fish is fresh and delicious.,2,ve never have bad service fish be fresh delicious,NN RB VB JJ NN NN VB JJ JJ
-The service was the only thing good about this restaurant.,2,service be only thing good restaurant,NN VB JJ NN JJ NN
-A restaurant that doesn't try to do anything except serve great food with great service in a pleasant atmosphere.,2,restaurant doesn try do anything serve great food great service pleasant atmosphere,NN VB NN VB NN NN JJ NN JJ NN JJ NN
-"The food is decent at best, and the ambience, well, it's a matter of opinion, some may consider it to be a sweet thing, I thought it was just annoying.",0,food be decent best ambience well matter opinion consider be sweet thing think be just annoying,NN VB JJ JJ NN RB NN NN VB VB JJ NN VB VB RB JJ
-I will be back!,2,be back,VB RB
-"Immediately after we paid, the waiter took the money and said, okay, you guys are outta here.",0,immediately paid waiter take money say okay guy be here,RB VB NN VB NN VB JJ NN VB RB
-"It may be a bit packed on weekends, but the vibe is good and it is the best French food you will find in the area.",2,be bit pack weekend vibe be good be best french food find area,VB NN VB NN NN VB JJ VB JJ JJ NN VB NN
-The staff is no nonsense.,2,staff be nonsense,NN VB NN
-All the people that I bring there go back on their own and bring THEIR friends!,2,person bring there go back own bring friend,NN VB RB VB RB JJ VB NN
-Stepped on my foot on the SECOND time he reached over me to adjust lighting.,0,step foot second time reach adjust light,VB NN JJ NN VB VB VB
-This is one of my favorite restaurants and it is not to be missed.,2,be favorite restaurant be not be miss,VB JJ NN VB RB VB VB
-"Yes, the prices are high, but I felt it was worth it.",2,yes price be high felt be worth,RB NN VB JJ NN VB JJ
-This tiny Williamsburg spot is always pleasantly surprising.,2,tiny williamsburg spot be always pleasantly surprising,JJ JJ NN VB RB RB JJ
-The pizza was pretty good and huge.,2,pizza be pretty good huge,NN VB RB JJ JJ
-"the pad se ew chicken was delicious, however the pad thai was far too oily.",0,pad ew chicken be delicious however pad thai be far too oily,NN JJ NN VB JJ RB NN NN VB RB RB JJ
-"We went here for lunch a couple of weeks ago on a Saturday, and I was thoroughly impressed with the food.",2,go here lunch couple week saturday be thoroughly impress food,VB RB NN NN NN NN VB RB VB NN
-Cozy romantic atomosphere with only around 15 tables at most.,2,cozy romantic atomosphere only table most,JJ JJ RB JJ NN JJ
-I think that it is absolutely brilliant and well runned business operation.,2,think be absolutely brilliant well runned business operation,VB VB RB JJ RB JJ NN NN
-My boyfriend had Prime Rib it was good .,2,boyfriend have prime rib be good,NN VB JJ NN VB JJ
-Good luck getting a table.,0,good luck get table,JJ NN VB NN
-"Seating is always prompt, though the restaurant does fill up in the evening.",2,seating be always prompt restaurant do fill evening,NN VB RB JJ NN VB VB NN
-"Went on a 3 day oyster binge, with Fish bringing up the closing, and I am so glad this was the place it O trip ended, because it was so great!",2,go day oyster binge fish bring closing be so glad be place trip end be so great,VB NN NN NN NN VB NN VB RB JJ VB NN NN VB VB RB JJ
-The spicy Tuna roll is huge and probably the best that I've had at this price range.,2,spicy tuna roll be huge probably best ve have price range,JJ NN NN VB JJ RB JJ NN VB NN NN
-"The in-house lady DJ on Saturday nights has outrageously good taste in music, and moreover, takes requests.",2,house lady dj saturday night have outrageously good taste music moreover take request,NN NN NN NN NN VB RB JJ NN NN RB VB NN
-The food was good.,2,food be good,NN VB JJ
-I cannot imagine a friendlier staff working in a restaurant.,2,imagine friendlier staff working restaurant,VB JJ NN NN NN
-Service was prompt and courteous.,2,service be prompt courteous,NN VB JJ JJ
-Never have I had such dramatic delivery guys (a lot of huffing and panting and muttering under breath b/c I live in a walkup) who always seem disappointed with their tips.,0,never have have such dramatic delivery guy lot huffing pant mutter breath live walkup always seem disappoint tip,RB VB VB JJ JJ NN NN NN NN VB VB NN VB NN RB VB VB NN
-"The pasta penne was pretty extra buttery, creamy which means a big task to diggest.. tasty at first but i would say that i was full with a slice of pizza and 7 to count, penne...got a little moody afterwards cause was stuffed...lol",0,pasta penne be pretty extra buttery creamy mean big task diggest tasty first say be full slice pizza count penne get little moody afterwards cause be stuff,NN NN VB JJ JJ JJ JJ VB JJ NN VB JJ JJ VB VB JJ NN NN VB NN VB JJ JJ RB NN VB VB
-"But, they were too big for the bun.",0,be too big bun,VB RB JJ NN
-Please be aware that it's CASH or AMEX only!,1,be aware cash amex only,VB JJ NN RB RB
-"The svc can be a bit rude at times, esp if you have big group, but overall the restaurant is a must!",2,svc be bit rude time esp have big group restaurant be,NN VB JJ JJ NN RB VB JJ NN NN VB
-I would highly recommand requesting a table by the window.,2,highly recommand request table window,RB VB VB NN NN
-MMmmm... it was delicious.,2,mmmmm be delicious,NN VB JJ
-We were planning to get dessert but the waitress basically through the bill at us before we had a chance to order.,0,be plan get dessert waitress basically bill have chance order,VB VB VB NN NN RB NN VB NN NN
-it's delicious!,2,delicious,JJ
-Drawbacks: service is slow and they don't toast!,0,drawback service be slow don toast,NN NN VB JJ VB NN
-"Guacamole+shrimp appetizer was really great, we both had the filet, very good, didn't much like the frites that came with, but the filet was so good, neither of us cared.",2,guacamole shrimp appetizer be really great have filet very good didn much frite come filet be so good care,NN NN NN VB RB JJ VB NN RB JJ VB RB NN VB NN VB RB JJ VB
-The cold appetizer dishes taste like the way I remember them to taste when I was growing up in Taiwan.,2,cold appetizer dish taste way remember taste be grow taiwan,JJ NN NN NN NN VB VB VB VB NN
-"We ordered the chicken casserole, but what we got were a few small pieces of chicken, all dark meat and on the bone.",0,order chicken casserole get be few small piece chicken dark meat bone,VB NN NN VB VB JJ JJ NN NN JJ NN NN
-"Eating in, the atmosphere saves it, but at your desk, it's a very disappointing experience.",2,eating atmosphere save desk very disappointing experience,NN NN VB NN RB JJ NN
-Guaranteed to be a tasty experience!),2,guarantee be tasty experience,VB VB JJ NN
-We even had a visit from the Manager who wanted to make sure we were enjoying ourselves.,2,even have visit manager want make sure be enjoy,RB VB NN NN VB VB JJ VB VB
-The food was exceptional.,2,food be exceptional,NN VB JJ
-"The food is good, especially their more basic dishes, and the drinks are delicious.",2,food be good especially more basic dish drink be delicious,NN VB JJ RB JJ JJ NN NN VB JJ
-"Great friendly service, Fast seating, Fast Delivery, Excellent sushi.",2,great friendly service fast seating fast delivery excellent sushi,JJ JJ NN JJ NN JJ NN JJ NN
-I'm not picky - but it was actually gross.,0,not picky be actually gross,RB JJ VB RB JJ
-Personal pans are the perfect size for those hungry nights.,2,personal pan be perfect size hungry night,JJ NN VB JJ NN JJ NN
-Quite simply it's like stepping out of Manhattan and into a haven of tranquility.,2,quite simply step manhattan haven tranquility,RB RB VB JJ NN NN
-I had to ask her three times before she finally came back with the dish Ive requested.,0,have ask time finally come back dish ive request,VB VB NN RB VB RB NN VB VB
-Nice value.,2,nice value,JJ NN
-I started out with a Bombay beer which was big enough for two.,2,start out bombay beer be big enough,VB RB JJ NN VB JJ RB
-The service was attentive.,2,service be attentive,NN VB JJ
-But the staff was so horrible to us.,0,staff be so horrible,NN VB RB JJ
-Although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat.,2,do typical kind water question service be good overall very relaxing place eat,VB JJ NN NN NN NN VB JJ JJ RB JJ VB VB
-My boyfriend and I went there to celebrate my birthday the other night and all I can say is that it was magnificent.,2,boyfriend go there celebrate birthday other night say be be magnificent,NN VB RB VB NN JJ NN VB VB VB JJ
-I think I've had some the best meals of my life at minnow.,2,think ve have best meal life minnow,VB NN VB JJ NN NN RB
-This place is always very crowded and popular.,2,place be always very crowd popular,NN VB RB RB VB JJ
-Consistently good Japanese Tapas.,2,consistently good japanese tapas,RB JJ JJ NN
-"Despite a slightly limited menu, everything prepared is done to perfection, ultra fresh and a work of food art.",2,slightly limited menu everything prepare be do perfection ultra fresh work food art,RB JJ NN NN VB VB VB NN JJ JJ NN NN NN
-This is a nice pizza place with good selection of thin crust pizza including the Basil slice.,2,be nice pizza place good selection thin crust pizza include basil slice,VB JJ NN NN JJ NN JJ NN NN VB NN NN
-The food was lousy - too sweet or too salty and the portions tiny.,0,food be lousy too sweet too salty portion tiny,NN VB JJ RB JJ RB JJ NN JJ
-"Still, any quibbles about the bill were off-set by the pour-your-own measures of liquers which were courtesey of the house...",1,still quibble bill be off set pour own measure liquer be courtesey house,RB NN NN VB RB NN NN JJ NN NN VB NN NN
-A little crowded but they move that line really fast!,0,little crowded move line really fast,JJ JJ VB NN RB JJ
-It is expensive but well worth the money.,2,be expensive well money,VB JJ RB NN
-Service was very prompt but slightly rushed.,2,service be very prompt slightly rush,NN VB RB JJ RB VB
-Friendly staff that actually lets you enjoy your meal and the company you're with.,2,friendly staff actually let enjoy meal company re,JJ NN RB VB VB NN NN NN
-"The whole set up is truly unprofessional and I wish Cafe Noir would get some good staff, because despite the current one this is a great place.",2,whole set be truly unprofessional wish cafe get good staff current one be great place,VB VB VB RB JJ NN NN VB JJ NN JJ NN VB JJ NN
-Wait staff is blantently unappreciative of your business but its the best pie on the UWS!,0,wait staff be blantently unappreciative business best pie uws,JJ NN VB RB JJ NN JJ NN NN
-The lobster sandwich is $24 and although it was good it was not nearly enough to warrant that price.,0,lobster sandwich be be good be not nearly enough warrant price,NN NN VB VB JJ VB RB RB JJ VB NN
-"Also, specify if you like your food spicy- its rather bland if you don't.",0,also specify food spicy rather bland don,RB VB NN JJ RB JJ VB
-The view is breathtaking the service is top notch... the ambiance is wonderfull.,2,view be breathtaking service be top notch ambiance be wonderfull,NN VB JJ NN VB JJ NN NN VB JJ
-No thanks!!!,0,thank,NN
-"They never brought us complimentary noodles, ignored repeated requests for sugar, and threw our dishes on the table.",0,never bring complimentary noodle ignore repeated request sugar throw dish table,RB VB JJ NN VB JJ NN NN VB NN NN
-I have to say I have never had a disapointing meal here.,2,have say have never have disapointing meal here,VB VB VB RB VB NN NN RB
-Zero ambiance to boot.,0,ambiance boot,NN NN
-"To sum it up: Service varies from good to mediorce, depending on which waiter you get; generally it is just average Ok. ",1,sum service vary good mediorce depend waiter get generally be just average,VB NN VB JJ VB VB NN VB RB VB RB JJ
-"The wait staff is very freindly, they make it feel like you're eating in a freindly little european town.",2,wait staff be very freindly make feel re eating freindly little european town,JJ NN VB RB RB VB VB NN NN JJ JJ JJ NN
-"If you venture off the island of Manhattan and can't seem to find a great Italian restaurant, drive to Corona.",2,venture island manhattan seem find great italian restaurant drive corona,NN NN JJ VB VB JJ JJ NN NN NN
-"Excellent atmosphere, delicious dishes good and friendly service.",2,excellent atmosphere delicious dish good friendly service,JJ NN JJ NN JJ JJ NN
-Will never be back.,0,never be back,RB VB RB
-"Calling the place Hampton Chutney Co. does warn you that these folks offer more style than substance, but in this unattractive room with unhelpful clerks there was a dearth of the former too.",0,call place hampton chutney co do folk offer more style substance unattractive room unhelpful clerk be dearth former too,VB NN NN NN NN VB NN VB JJ NN NN JJ NN JJ NN VB NN JJ RB
-"They don't concern much of customer's health, just want to make money.",0,don concern much customer health just want make money,VB NN JJ NN NN RB VB VB NN
-"The ambience is pretty and nice for conversation, so a casual lunch here would probably be best.",2,ambience be pretty nice conversation casual lunch here probably be best,NN VB RB JJ NN JJ NN RB RB VB RB
-"We have been to this place many times, and always have great food, wine, and service.",2,have be place many time always have great food wine service,VB VB NN JJ NN RB VB JJ NN NN NN
-This is the perfect date spot for Williamsburg couples.,2,be perfect date spot williamsburg couple,VB JJ NN NN NN NN
-Awsome Pizza especially the Margheritta slice.,2,pizza especially margheritta slice,NN RB JJ NN
-Simply some good tasting Chinese food at incredible prices...,2,simply good taste chinese food incredible price,RB JJ VB JJ NN JJ NN
-Avoid this place!,0,avoid place,VB NN
-Everyone was more then happy with his choices.,2,everyone be more then happy choice,NN VB RB RB JJ NN
+sentence,sentiment,lem_words,lem_tags,word_tags
+Authentic Shanghai style and I cannot recommend a better Shanghai place in New York.,2,authentic shanghai style recommend better shanghai place new york,JJ NN NN VB JJ NN NN NN NN,"[authentic/JJ, shanghai/NN, style/NN, recommend/VB, better/JJ, shanghai/NN, place/NN, new/NN, york/NN]"
+The menu is limited but almost all of the dishes are excellent.,0,menu be limited almost dish be excellent,NN VB JJ RB NN VB JJ,"[menu/NN, be/VB, limited/JJ, almost/RB, dish/NN, be/VB, excellent/JJ]"
+"Food is usually very good, though ocasionally I wondered about freshmess of raw vegatables in side orders.",0,food be usually very good ocasionally wonder freshmess raw vegatable side order,NN VB RB RB JJ RB VB NN JJ NN NN NN,"[food/NN, be/VB, usually/RB, very/RB, good/JJ, ocasionally/RB, wonder/VB, freshmess/NN, raw/JJ, vegatable/NN, side/NN, order/NN]"
+It is very overpriced and not very tasty.,0,be very overpriced not very tasty,VB RB JJ RB RB JJ,"[be/VB, very/RB, overpriced/JJ, not/RB, very/RB, tasty/JJ]"
+"It is set far from the small street it's on, and there is no traffic noise.",2,be set far small street be traffic noise,VB VB RB JJ NN VB NN NN,"[be/VB, set/VB, far/RB, small/JJ, street/NN, be/VB, traffic/NN, noise/NN]"
+"Anybody who likes this place must be from a different planet, where greasy, dry and tasteless are complimentary.",0,anybody like place be different planet greasy dry tasteless be complimentary,NN VB NN VB JJ NN JJ NN JJ VB JJ,"[anybody/NN, like/VB, place/NN, be/VB, different/JJ, planet/NN, greasy/JJ, dry/NN, tasteless/JJ, be/VB, complimentary/JJ]"
+The tuna and wasabe potatoes are excellent.,2,tuna wasabe potato be excellent,NN NN NN VB JJ,"[tuna/NN, wasabe/NN, potato/NN, be/VB, excellent/JJ]"
+"Great food, great prices, great service.",2,great food great price great service,JJ NN JJ NN JJ NN,"[great/JJ, food/NN, great/JJ, price/NN, great/JJ, service/NN]"
+Wait staff is blantently unappreciative of your business but its the best pie on the UWS!,2,wait staff be blantently unappreciative business best pie uws,JJ NN VB RB JJ NN JJ NN NN,"[wait/JJ, staff/NN, be/VB, blantently/RB, unappreciative/JJ, business/NN, best/JJ, pie/NN, uws/NN]"
+It is simply amazing.,2,be simply amazing,VB RB JJ,"[be/VB, simply/RB, amazing/JJ]"
+Kind of a small place but I guess if they are not too busy might be able to fit a group or kids.,1,kind small place guess be not too busy be able fit group kid,NN JJ NN NN VB RB RB JJ VB JJ VB NN NN,"[kind/NN, small/JJ, place/NN, guess/NN, be/VB, not/RB, too/RB, busy/JJ, be/VB, able/JJ, fit/VB, group/NN, kid/NN]"
+Great pizza and fantastic service.,2,great pizza fantastic service,JJ NN JJ NN,"[great/JJ, pizza/NN, fantastic/JJ, service/NN]"
+"sometimes i get bad food and bad service, sometimes i get good good and bad service.",2,sometimes get bad food bad service sometimes get good good bad service,RB VB JJ NN JJ NN RB VB JJ JJ JJ NN,"[sometimes/RB, get/VB, bad/JJ, food/NN, bad/JJ, service/NN, sometimes/RB, get/VB, good/JJ, good/JJ, bad/JJ, service/NN]"
+The bar is very well stocked with interesting beers and well priced wines.,2,bar be very well stock interesting beer well price wine,NN VB RB RB VB JJ NN RB VB NN,"[bar/NN, be/VB, very/RB, well/RB, stock/VB, interesting/JJ, beer/NN, well/RB, price/VB, wine/NN]"
+"The place is small and intimate and you may feel a little crowded, but the service is excellent and it's great for friends out, a romantic date, or a special occassion.",0,place be small intimate feel little crowded service be excellent great friend romantic date special occassion,NN VB JJ JJ VB JJ JJ NN VB JJ JJ NN JJ NN JJ NN,"[place/NN, be/VB, small/JJ, intimate/JJ, feel/VB, little/JJ, crowded/JJ, service/NN, be/VB, excellent/JJ, great/JJ, friend/NN, romantic/JJ, date/NN, special/JJ, occassion/NN]"
+bottles of wine are cheap and good.,2,bottle wine be cheap good,NN NN VB JJ JJ,"[bottle/NN, wine/NN, be/VB, cheap/JJ, good/JJ]"
+"In any event, this is a place I'll be sure to stop by again when I'm in this part of town.",2,event be place be sure stop again part town,NN VB NN VB JJ VB RB NN NN,"[event/NN, be/VB, place/NN, be/VB, sure/JJ, stop/VB, again/RB, part/NN, town/NN]"
+Food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when I went.,2,food be good view new york city skiline be terrific even foggy rainy day go,NN VB JJ NN NN NN NN NN VB JJ RB JJ JJ NN VB,"[food/NN, be/VB, good/JJ, view/NN, new/NN, york/NN, city/NN, skiline/NN, be/VB, terrific/JJ, even/RB, foggy/JJ, rainy/JJ, day/NN, go/VB]"
+I thought this place was totally overrated.,0,think place be totally overrate,VB NN VB RB VB,"[think/VB, place/NN, be/VB, totally/RB, overrate/VB]"
+"service is friendly, and never had a problem walking in and getting a table.",2,service be friendly never have problem walking get table,NN VB JJ RB VB NN NN VB NN,"[service/NN, be/VB, friendly/JJ, never/RB, have/VB, problem/NN, walking/NN, get/VB, table/NN]"
+It was pretty inexpensive too.,2,be pretty inexpensive too,VB JJ JJ RB,"[be/VB, pretty/JJ, inexpensive/JJ, too/RB]"
+"You are not eating haut cuisine with subtle hints of whatever but: Cassuolet, Steake Fritte, Tripe Stew, etc; simple stuff.",2,be not eat haut cuisine subtle hint cassuolet steake fritte tripe stew etc simple stuff,VB RB VB JJ NN JJ NN VB NN NN NN NN JJ JJ NN,"[be/VB, not/RB, eat/VB, haut/JJ, cuisine/NN, subtle/JJ, hint/NN, cassuolet/VB, steake/NN, fritte/NN, tripe/NN, stew/NN, etc/JJ, simple/JJ, stuff/NN]"
+"The portions are HUGE, so it might be good to order three things to split (rather than one appetizer and entree per person) for two people.",1,portion be huge be good order thing split rather appetizer entree person person,NN VB JJ VB JJ NN NN VB RB NN NN NN NN,"[portion/NN, be/VB, huge/JJ, be/VB, good/JJ, order/NN, thing/NN, split/VB, rather/RB, appetizer/NN, entree/NN, person/NN, person/NN]"
+Great food and the prices are very reasonable.,2,great food price be very reasonable,JJ NN NN VB RB JJ,"[great/JJ, food/NN, price/NN, be/VB, very/RB, reasonable/JJ]"
+Was surprisingly disappointed.,0,be surprisingly disappoint,VB RB VB,"[be/VB, surprisingly/RB, disappoint/VB]"
+"During the course of the past 3 months, the chef and staff changed and it was not for the better.",0,course past month chef staff change be not better,NN JJ NN NN NN VB VB RB JJ,"[course/NN, past/JJ, month/NN, chef/NN, staff/NN, change/VB, be/VB, not/RB, better/JJ]"
+So rushing us out was absolutely unnecessary!,0,so rush be absolutely unnecessary,RB VB VB RB JJ,"[so/RB, rush/VB, be/VB, absolutely/RB, unnecessary/JJ]"
+"I went to Areo on a Sunday afternoon with four of my girlfriends, and spent three enjoyable hours there.",2,go areo sunday afternoon girlfriend spend enjoyable hour there,VB VB NN NN NN VB JJ NN RB,"[go/VB, areo/VB, sunday/NN, afternoon/NN, girlfriend/NN, spend/VB, enjoyable/JJ, hour/NN, there/RB]"
+The service is good and ambience is good for a date or group outing.,2,service be good ambience be good date group outing,NN VB JJ NN VB JJ NN NN NN,"[service/NN, be/VB, good/JJ, ambience/NN, be/VB, good/JJ, date/NN, group/NN, outing/NN]"
+"My husband and I thougt it would be great to go to the Jekyll and Hyde Pub for our anniversary, and to our surprise it was fantastic.",2,husband thougt be great go jekyll hyde pub anniversary surprise be fantastic,NN NN VB JJ VB NN JJ NN NN NN VB JJ,"[husband/NN, thougt/NN, be/VB, great/JJ, go/VB, jekyll/NN, hyde/JJ, pub/NN, anniversary/NN, surprise/NN, be/VB, fantastic/JJ]"
+Baluchi's has solid food and a nice decor at reasonable prices.,2,baluchi have solid food nice decor reasonable price,NN VB JJ NN JJ NN JJ NN,"[baluchi/NN, have/VB, solid/JJ, food/NN, nice/JJ, decor/NN, reasonable/JJ, price/NN]"
+Would NEVER go back there.,0,never go back there,RB VB RB RB,"[never/RB, go/VB, back/RB, there/RB]"
+Great staff.,2,great staff,JJ NN,"[great/JJ, staff/NN]"
+honestly the worst sushi my husband and i had in our entire lives.,0,honestly worst sushi husband have entire life,RB JJ NN NN VB JJ NN,"[honestly/RB, worst/JJ, sushi/NN, husband/NN, have/VB, entire/JJ, life/NN]"
+Go hungry and enjoy.,2,go hungry enjoy,VB JJ NN,"[go/VB, hungry/JJ, enjoy/NN]"
+"Conveniently located too, being right on Bedford ave.",2,conveniently locate too be right bedford ave,RB VB RB VB RB NN VB,"[conveniently/RB, locate/VB, too/RB, be/VB, right/RB, bedford/NN, ave/VB]"
+"Cute place, nice wait staff but would never go there again.",2,cute place nice wait staff never go there again,JJ NN JJ NN NN RB VB RB RB,"[cute/JJ, place/NN, nice/JJ, wait/NN, staff/NN, never/RB, go/VB, there/RB, again/RB]"
+The owner and staff are all Japanese as well and that adds to the entire ambiance.,2,owner staff be japanese as well add entire ambiance,NN NN VB RB RB RB VB JJ NN,"[owner/NN, staff/NN, be/VB, japanese/RB, as/RB, well/RB, add/VB, entire/JJ, ambiance/NN]"
+"Try the Pad Thai, or sample anything on the appetizer menu...they're all delicious.",2,try pad thai sample anything appetizer menu re delicious,VB NN NN NN NN NN NN NN JJ,"[try/VB, pad/NN, thai/NN, sample/NN, anything/NN, appetizer/NN, menu/NN, re/NN, delicious/JJ]"
+"The food was amazing, and the service was prompt and helpful, but not over-bearing or rushed.",2,food be amazing service be prompt helpful not bearing rush,NN VB JJ NN VB JJ JJ RB NN VB,"[food/NN, be/VB, amazing/JJ, service/NN, be/VB, prompt/JJ, helpful/JJ, not/RB, bearing/NN, rush/VB]"
+On a hot day it was fabulous to stop in and enjoy lunch.,2,hot day be fabulous stop enjoy lunch,JJ NN VB JJ VB JJ NN,"[hot/JJ, day/NN, be/VB, fabulous/JJ, stop/VB, enjoy/JJ, lunch/NN]"
+"If celebrities make you sweat, then your in for a ride, but if your like most around these parts then you'll just yawn and wonder whats with all the hype.",0,celebrity make sweat then ride most part then ll just yawn what hype,NN VB VB RB NN JJ NN RB VB RB NN VB NN,"[celebrity/NN, make/VB, sweat/VB, then/RB, ride/NN, most/JJ, part/NN, then/RB, ll/VB, just/RB, yawn/NN, what/VB, hype/NN]"
+I have been going back again and again.,2,have be go back again again,VB VB VB RB RB RB,"[have/VB, be/VB, go/VB, back/RB, again/RB, again/RB]"
+"However, go for the ambience, and consider the food just a companion for a trip across the world!",2,however go ambience consider food just companion trip world,RB VB NN VB NN RB NN NN NN,"[however/RB, go/VB, ambience/NN, consider/VB, food/NN, just/RB, companion/NN, trip/NN, world/NN]"
+Very affordable and excellent ambient!,2,very affordable excellent ambient,RB JJ JJ NN,"[very/RB, affordable/JJ, excellent/JJ, ambient/NN]"
+"While their kitchen food is delicious, their Sushi is out of this world.",2,kitchen food be delicious sushi be world,NN NN VB JJ NN VB NN,"[kitchen/NN, food/NN, be/VB, delicious/JJ, sushi/NN, be/VB, world/NN]"
+Service is fast and friendly.,2,service be fast friendly,NN VB JJ JJ,"[service/NN, be/VB, fast/JJ, friendly/JJ]"
+Not impressed with the food.,0,not impress food,RB VB NN,"[not/RB, impress/VB, food/NN]"
+"I found the food, service and value exceptional everytime I have been there.",2,find food service value exceptional everytime have be there,VB NN NN NN JJ NN VB VB RB,"[find/VB, food/NN, service/NN, value/NN, exceptional/JJ, everytime/NN, have/VB, be/VB, there/RB]"
+Overall I would recommend it and go back again.,2,overall recommend go back again,JJ VB VB RB RB,"[overall/JJ, recommend/VB, go/VB, back/RB, again/RB]"
+Fresh ingredients and everything is made to order.,2,fresh ingredient everything be make order,JJ NN NN VB VB NN,"[fresh/JJ, ingredient/NN, everything/NN, be/VB, make/VB, order/NN]"
+"I have known about this secret for the last 13 years, Emilio(the Godfather) has continued to serve food and wine for the gods at mortal prices.",2,have know secret last year emilio the godfather have continue serve food wine god mortal price,VB VB NN JJ NN VB NN NN VB VB VB NN NN NN JJ NN,"[have/VB, know/VB, secret/NN, last/JJ, year/NN, emilio/VB, the/NN, godfather/NN, have/VB, continue/VB, serve/VB, food/NN, wine/NN, god/NN, mortal/JJ, price/NN]"
+I am reluctant to write because I would not want my jem of a pizza place to become overcrowded.,2,be reluctant write not want jem pizza place become overcrowded,VB JJ VB RB VB NN NN NN VB JJ,"[be/VB, reluctant/JJ, write/VB, not/RB, want/VB, jem/NN, pizza/NN, place/NN, become/VB, overcrowded/JJ]"
+Mizu is the Japenese find in Grammercy.,2,mizu be japenese find grammercy,NN VB RB VB NN,"[mizu/NN, be/VB, japenese/RB, find/VB, grammercy/NN]"
+We will be back.,2,be back,VB RB,"[be/VB, back/RB]"
+"Food was very good as well, considering that we tried the budget selection (though I wish the pork belly that I ordered was roasted a bit longer, so that fat was more of a melt-in-your-mouth experience).",0,food be very good well consider try budget selection wish pork belly order be roast bit longer fat be more melt mouth experience,NN VB RB JJ RB VB VB NN NN VB NN NN VB VB VB NN RB NN VB JJ VB NN NN,"[food/NN, be/VB, very/RB, good/JJ, well/RB, consider/VB, try/VB, budget/NN, selection/NN, wish/VB, pork/NN, belly/NN, order/VB, be/VB, roast/VB, bit/NN, longer/RB, fat/NN, be/VB, more/JJ, melt/VB, mouth/NN, experience/NN]"
+"Most importantly, food is excellent.",2,most importantly food be excellent,RB RB NN VB JJ,"[most/RB, importantly/RB, food/NN, be/VB, excellent/JJ]"
+The service was friendly and the atmosphere was casual.,1,service be friendly atmosphere be casual,NN VB JJ NN VB JJ,"[service/NN, be/VB, friendly/JJ, atmosphere/NN, be/VB, casual/JJ]"
+The counter service is bad.,0,counter service be bad,JJ NN VB JJ,"[counter/JJ, service/NN, be/VB, bad/JJ]"
+The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals.,2,service be fast friendly food be very tasty have best hot sauce add meal,NN VB JJ JJ NN VB RB JJ VB JJ JJ NN VB NN,"[service/NN, be/VB, fast/JJ, friendly/JJ, food/NN, be/VB, very/RB, tasty/JJ, have/VB, best/JJ, hot/JJ, sauce/NN, add/VB, meal/NN]"
+When I lived upstate for a while I would buy freeze the bagels and they would still be better than any else.,2,live upstate buy freeze bagel still be better else,VB JJ VB VB NN RB VB JJ RB,"[live/VB, upstate/JJ, buy/VB, freeze/VB, bagel/NN, still/RB, be/VB, better/JJ, else/RB]"
+"The dosas are skimpy, unattractive and drip with grease, and personally I'd drink popcorn topping before I'd eat another one of these.",0,dosa be skimpy unattractive drip grease personally drink popcorn top eat,NN VB JJ JJ NN NN RB NN NN VB VB,"[dosa/NN, be/VB, skimpy/JJ, unattractive/JJ, drip/NN, grease/NN, personally/RB, drink/NN, popcorn/NN, top/VB, eat/VB]"
+"Raga's is a romantic, cozy restaurant.",2,raga be romantic cozy restaurant,VB VB JJ JJ NN,"[raga/VB, be/VB, romantic/JJ, cozy/JJ, restaurant/NN]"
+But too far east!,0,too far east,RB RB JJ,"[too/RB, far/RB, east/JJ]"
+It's all about the food !!,2,food,NN,[food/NN]
+The takeout is great too since they give high quality tupperware as well.,2,takeout be great too give high quality tupperware as well,NN VB JJ RB VB JJ NN VB RB RB,"[takeout/NN, be/VB, great/JJ, too/RB, give/VB, high/JJ, quality/NN, tupperware/VB, as/RB, well/RB]"
+"The service was attentive, yet discreet.",2,service be attentive yet discreet,NN VB JJ RB JJ,"[service/NN, be/VB, attentive/JJ, yet/RB, discreet/JJ]"
+A must try!,2,try,VB,[try/VB]
+A little pricey but it really hits the spot on a Sunday morning!,0,little pricey really hit spot sunday morning,JJ JJ RB VB NN NN NN,"[little/JJ, pricey/JJ, really/RB, hit/VB, spot/NN, sunday/NN, morning/NN]"
+Food was good not great not worth the wait or another visit,0,food be good not great not wait visit,NN VB JJ RB JJ RB NN NN,"[food/NN, be/VB, good/JJ, not/RB, great/JJ, not/RB, wait/NN, visit/NN]"
+I LOVE their Thai,2,love thai,VB NN,"[love/VB, thai/NN]"
+THE BIG COMPLAINT: NO TOASTING AVAILABLE.,0,big complaint toast available,JJ NN VB JJ,"[big/JJ, complaint/NN, toast/VB, available/JJ]"
+The hostess and the waitress were incredibly rude and did everything they could to rush us out.,0,hostess waitress be incredibly rude do everything rush,NN NN VB RB JJ VB NN VB,"[hostess/NN, waitress/NN, be/VB, incredibly/RB, rude/JJ, do/VB, everything/NN, rush/VB]"
+"Despite a slightly limited menu, everything prepared is done to perfection, ultra fresh and a work of food art.",0,slightly limited menu everything prepare be do perfection ultra fresh work food art,RB JJ NN NN VB VB VB NN JJ JJ NN NN NN,"[slightly/RB, limited/JJ, menu/NN, everything/NN, prepare/VB, be/VB, do/VB, perfection/NN, ultra/JJ, fresh/JJ, work/NN, food/NN, art/NN]"
+I had never had Edamame pureed before but I thought it was innovative and tasty (could've used a bit more salt).,2,have never have edamame pureed before think be innovative tasty have used bit more salt,VB RB VB JJ NN RB VB VB JJ JJ VB VB NN JJ NN,"[have/VB, never/RB, have/VB, edamame/JJ, pureed/NN, before/RB, think/VB, be/VB, innovative/JJ, tasty/JJ, have/VB, used/VB, bit/NN, more/JJ, salt/NN]"
+I absolutely love this place!!!,2,absolutely love place,RB VB NN,"[absolutely/RB, love/VB, place/NN]"
+The place is small and cramped but the food is fantastic.,2,place be small cramped food be fantastic,NN VB JJ JJ NN VB JJ,"[place/NN, be/VB, small/JJ, cramped/JJ, food/NN, be/VB, fantastic/JJ]"
+"A few tips: skip the turnip cake, roast pork buns and egg custards.",0,few tip skip turnip cake roast pork bun egg custard,JJ NN VB NN NN NN NN NN NN NN,"[few/JJ, tip/NN, skip/VB, turnip/NN, cake/NN, roast/NN, pork/NN, bun/NN, egg/NN, custard/NN]"
+"The portion sizes here are huge, and the sushi is good.",2,portion size here be huge sushi be good,NN NN RB VB JJ NN VB JJ,"[portion/NN, size/NN, here/RB, be/VB, huge/JJ, sushi/NN, be/VB, good/JJ]"
+I have been to Roth's twice and both times were very disappointing.,0,have be roth twice time be very disappointing,VB VB VB RB NN VB RB JJ,"[have/VB, be/VB, roth/VB, twice/RB, time/NN, be/VB, very/RB, disappointing/JJ]"
+"(The asparagus, truffle oil, parmesan bruschetta is a winner!)",2,asparagus truffle oil parmesan bruschetta be winner,NN NN NN NN NN VB NN,"[asparagus/NN, truffle/NN, oil/NN, parmesan/NN, bruschetta/NN, be/VB, winner/NN]"
+Always great service!,2,always great service,RB JJ NN,"[always/RB, great/JJ, service/NN]"
+Slightly on the pricey side but worth it!,0,slightly pricey side worth,RB JJ NN JJ,"[slightly/RB, pricey/JJ, side/NN, worth/JJ]"
+"The staff has been nice, but they seemed really stressed and the unisex bathroom needs to be cleaned more often.",0,staff have be nice seem really stressed unisex bathroom need be clean more often,NN VB VB JJ VB RB JJ NN NN NN VB VB RB RB,"[staff/NN, have/VB, be/VB, nice/JJ, seem/VB, really/RB, stressed/JJ, unisex/NN, bathroom/NN, need/NN, be/VB, clean/VB, more/RB, often/RB]"
+I would go back.,2,go back,VB RB,"[go/VB, back/RB]"
+I am bringing my whole family back next time.,2,be bring whole family next time,VB VB JJ NN JJ NN,"[be/VB, bring/VB, whole/JJ, family/NN, next/JJ, time/NN]"
+What a great place.,2,great place,JJ NN,"[great/JJ, place/NN]"
+Food is excellent.,2,food be excellent,NN VB JJ,"[food/NN, be/VB, excellent/JJ]"
+They smell like they stuff them with old canned vegetables like the spinach mushroom calzone.,0,smell stuff old canned vegetable spinach mushroom calzone,VB NN JJ JJ NN NN NN NN,"[smell/VB, stuff/NN, old/JJ, canned/JJ, vegetable/NN, spinach/NN, mushroom/NN, calzone/NN]"
+I ordered the smoked salmon and roe appetizer and it was off flavor.,0,order smoke salmon roe appetizer be off flavor,VB VB NN JJ NN VB JJ NN,"[order/VB, smoke/VB, salmon/NN, roe/JJ, appetizer/NN, be/VB, off/JJ, flavor/NN]"
+The staff is incredibly helpful and attentive.,2,staff be incredibly helpful attentive,NN VB RB JJ JJ,"[staff/NN, be/VB, incredibly/RB, helpful/JJ, attentive/JJ]"
+I love it.,2,love,NN,[love/NN]
+"Terrible, terrible management - deserves to be shut-down.",0,terrible terrible management deserve be shut,JJ JJ NN VB VB VB,"[terrible/JJ, terrible/JJ, management/NN, deserve/VB, be/VB, shut/VB]"
+Atmosphere is nice and relaxed too...,2,atmosphere be nice relax too,NN VB JJ VB RB,"[atmosphere/NN, be/VB, nice/JJ, relax/VB, too/RB]"
+"The food was average to above-average; the French Onion soup filling yet not overly impressive, and the desserts not brilliant in any way.",0,food be average above french onion soup fill yet not overly impressive dessert not brilliant way,NN VB JJ VB JJ NN NN VB RB RB RB JJ NN RB JJ NN,"[food/NN, be/VB, average/JJ, above/VB, french/JJ, onion/NN, soup/NN, fill/VB, yet/RB, not/RB, overly/RB, impressive/JJ, dessert/NN, not/RB, brilliant/JJ, way/NN]"
+The food is so cheap and the waiters are nice.,2,food be so cheap waiter be nice,NN VB RB JJ NN VB JJ,"[food/NN, be/VB, so/RB, cheap/JJ, waiter/NN, be/VB, nice/JJ]"
+"Everytime I decide to try another place on the UES, I get angry that I didn't just go to Zucchero Pomodori.",2,everytime decide try place ue get angry didn just go pomodori,NN NN VB NN NN VB JJ VB RB VB NN,"[everytime/NN, decide/NN, try/VB, place/NN, ue/NN, get/VB, angry/JJ, didn/VB, just/RB, go/VB, pomodori/NN]"
+"But after last night, Spice Grill is the only place I'm eating indian cuisine.",2,last night spice grill be only place eating indian cuisine,JJ NN NN NN VB JJ NN NN JJ NN,"[last/JJ, night/NN, spice/NN, grill/NN, be/VB, only/JJ, place/NN, eating/NN, indian/JJ, cuisine/NN]"
+wont come back again for sure!,0,wont come back again sure,JJ NN RB RB JJ,"[wont/JJ, come/NN, back/RB, again/RB, sure/JJ]"
+In summer-eat outside on a terrace (another great feature of Suan)!!!,2,summer eat outside terrace great feature suan,NN NN NN NN JJ NN NN,"[summer/NN, eat/NN, outside/NN, terrace/NN, great/JJ, feature/NN, suan/NN]"
+I stumbled upon this great pizzeria as I explored my new neighborhood.,2,stumble great pizzeria explore new neighborhood,VB JJ NN VB JJ NN,"[stumble/VB, great/JJ, pizzeria/NN, explore/VB, new/JJ, neighborhood/NN]"
+The wine list is also really nice.,2,wine list be also really nice,NN NN VB RB RB JJ,"[wine/NN, list/NN, be/VB, also/RB, really/RB, nice/JJ]"
+This is one of the best comfort food places in the city.,2,be best comfort food place city,VB JJ NN NN NN NN,"[be/VB, best/JJ, comfort/NN, food/NN, place/NN, city/NN]"
+"Bagels are ok, but be sure not to make any special requests!",1,bagel be be sure not make special request,NN VB VB JJ RB VB JJ NN,"[bagel/NN, be/VB, be/VB, sure/JJ, not/RB, make/VB, special/JJ, request/NN]"
+It was $14 not really bad for a pound of Pastrami-but it didn't have much taste-I've had better for less elsewhere!,1,be not really bad pound pastrami didn have much taste ve have better less elsewhere,VB RB RB JJ NN NN VB VB JJ NN NN VB RB JJ RB,"[be/VB, not/RB, really/RB, bad/JJ, pound/NN, pastrami/NN, didn/VB, have/VB, much/JJ, taste/NN, ve/NN, have/VB, better/RB, less/JJ, elsewhere/RB]"
+I went there for lunch and it was not as good as I expected from the reviews I read.,0,go there lunch be not good expect reviews read,VB RB NN VB RB JJ VB NN VB,"[go/VB, there/RB, lunch/NN, be/VB, not/RB, good/JJ, expect/VB, reviews/NN, read/VB]"
+This is the BEST Shabu-Shabu Restaurant in the Try-State Area.,2,be best shabu shabu restaurant try state area,VB JJ NN NN NN JJ NN NN,"[be/VB, best/JJ, shabu/NN, shabu/NN, restaurant/NN, try/JJ, state/NN, area/NN]"
+I did not try the caviar but I tried their salmon and crab salad (they are all good)  ,2,do not try caviar try salmon crab salad be good,VB RB VB NN VB NN NN NN VB JJ,"[do/VB, not/RB, try/VB, caviar/NN, try/VB, salmon/NN, crab/NN, salad/NN, be/VB, good/JJ]"
+"I have eaten at Saul, many times, the food is always consistently, outrageously good.",2,have eat saul many time food be always consistently outrageously good,VB VB NN JJ NN NN VB RB RB RB JJ,"[have/VB, eat/VB, saul/NN, many/JJ, time/NN, food/NN, be/VB, always/RB, consistently/RB, outrageously/RB, good/JJ]"
+Service is average.,1,service be average,NN VB JJ,"[service/NN, be/VB, average/JJ]"
+It's a rather cramped and busy restaurant and it closes early.,0,rather cramped busy restaurant close early,RB JJ JJ NN VB RB,"[rather/RB, cramped/JJ, busy/JJ, restaurant/NN, close/VB, early/RB]"
+We were not dissappointed in the least bit by this little gem.,2,be not dissappoint least bit little gem,VB RB VB JJ NN JJ NN,"[be/VB, not/RB, dissappoint/VB, least/JJ, bit/NN, little/JJ, gem/NN]"
+A pleasant surprise.,2,pleasant surprise,JJ NN,"[pleasant/JJ, surprise/NN]"
+Food is great.,2,food be great,NN VB JJ,"[food/NN, be/VB, great/JJ]"
+A classic!,2,classic,JJ,[classic/JJ]
+"Yes, they use fancy ingredients, but even fancy ingredients don't make for good pizza unless someone knows how to get the crust right.",2,yes use fancy ingredient even fancy ingredient don make good pizza someone know get crust right,RB VB JJ NN RB JJ NN VB VB JJ NN NN VB VB NN RB,"[yes/RB, use/VB, fancy/JJ, ingredient/NN, even/RB, fancy/JJ, ingredient/NN, don/VB, make/VB, good/JJ, pizza/NN, someone/NN, know/VB, get/VB, crust/NN, right/RB]"
+The server was really cool and served us our food and drinks with a smile.,2,server be really cool serve food drink smile,NN VB RB JJ VB NN NN NN,"[server/NN, be/VB, really/RB, cool/JJ, serve/VB, food/NN, drink/NN, smile/NN]"
+They even scoop it out nice (for those on a diet) not too much not to little.,2,even scoop out nice diet not too much not little,RB VB RB JJ NN RB RB JJ RB JJ,"[even/RB, scoop/VB, out/RB, nice/JJ, diet/NN, not/RB, too/RB, much/JJ, not/RB, little/JJ]"
+Enjoyed a very nice Caesar Salad while my wife had arugula and goat cheese....both very tasty.,2,enjoy very nice caesar salad wife have arugula goat cheese very tasty,VB RB JJ NN NN NN VB NN NN NN RB JJ,"[enjoy/VB, very/RB, nice/JJ, caesar/NN, salad/NN, wife/NN, have/VB, arugula/NN, goat/NN, cheese/NN, very/RB, tasty/JJ]"
+"And it all comes at a very reasonable price (congee, noodles, and rice dishes are no more than $3-6 each).",2,come very reasonable price congee noodle rice dish be no more,VB RB JJ NN JJ NN NN NN VB RB JJ,"[come/VB, very/RB, reasonable/JJ, price/NN, congee/JJ, noodle/NN, rice/NN, dish/NN, be/VB, no/RB, more/JJ]"
+"A big disappointment, all around.",0,big disappointment,JJ NN,"[big/JJ, disappointment/NN]"
+Worth the trip from Manhattan.,2,trip manhattan,NN JJ,"[trip/NN, manhattan/JJ]"
+There is a downside if you're ordering in -- the delivery guys have MAJOR attitude.,0,be downside re order delivery guy have major attitude,VB NN NN VB NN NN VB JJ NN,"[be/VB, downside/NN, re/NN, order/VB, delivery/NN, guy/NN, have/VB, major/JJ, attitude/NN]"
+"The view is spectacular, and the food is great.",2,view be spectacular food be great,NN VB JJ NN VB JJ,"[view/NN, be/VB, spectacular/JJ, food/NN, be/VB, great/JJ]"
+Salads were fantastic.,2,salad be fantastic,NN VB JJ,"[salad/NN, be/VB, fantastic/JJ]"
+As always we had a great glass of wine while we waited.,2,always have great glass wine wait,RB VB JJ NN NN VB,"[always/RB, have/VB, great/JJ, glass/NN, wine/NN, wait/VB]"
+This place would be so much better served by being run by a group that actually understands customer service.,0,place be so much better serve be run group actually understand customer service,NN VB RB RB RB VB VB VB NN RB VB NN NN,"[place/NN, be/VB, so/RB, much/RB, better/RB, serve/VB, be/VB, run/VB, group/NN, actually/RB, understand/VB, customer/NN, service/NN]"
+It's one of our favorite places to eat in NY.,2,favorite place eat ny,JJ NN VB NN,"[favorite/JJ, place/NN, eat/VB, ny/NN]"
+The place's decor and hidden bathrooms made for a good laugh.,2,place decor hidden bathroom make good laugh,NN NN JJ NN VB JJ NN,"[place/NN, decor/NN, hidden/JJ, bathroom/NN, make/VB, good/JJ, laugh/NN]"
+We won't go to this place again for a good meal.,0,win go place again good meal,VB VB NN RB JJ NN,"[win/VB, go/VB, place/NN, again/RB, good/JJ, meal/NN]"
+"But the best part about LS is the late night atmosphere, delightfully free of the BTs.",2,best part ls be late night atmosphere delightfully free bt,JJ NN NN VB JJ NN NN RB JJ NN,"[best/JJ, part/NN, ls/NN, be/VB, late/JJ, night/NN, atmosphere/NN, delightfully/RB, free/JJ, bt/NN]"
+I have been doing all of the above at the Heartland Brewery for over 5 years now and I HAVE NEVER BEEN DISAPPOINTED!,2,have be do above heartland brewery year now have never be disappoint,VB VB VB JJ NN NN NN RB VB RB VB VB,"[have/VB, be/VB, do/VB, above/JJ, heartland/NN, brewery/NN, year/NN, now/RB, have/VB, never/RB, be/VB, disappoint/VB]"
+too large for just two people but nothing was left.,0,too large just person nothing be left,RB JJ RB NN NN VB VB,"[too/RB, large/JJ, just/RB, person/NN, nothing/NN, be/VB, left/VB]"
+"When we sat, we got great and fast service.",2,sit get great fast service,VB VB JJ JJ NN,"[sit/VB, get/VB, great/JJ, fast/JJ, service/NN]"
+Everything about this restaurant was special.,2,everything restaurant be special,NN NN VB JJ,"[everything/NN, restaurant/NN, be/VB, special/JJ]"
+It is obvious that no one in the restaurant has any idea about or experience with Japanese cuisine.,0,be obvious one restaurant have idea about experience japanese cuisine,VB JJ NN NN VB NN RB NN JJ NN,"[be/VB, obvious/JJ, one/NN, restaurant/NN, have/VB, idea/NN, about/RB, experience/NN, japanese/JJ, cuisine/NN]"
+You can't go wrong here.,2,go wrong here,VB JJ RB,"[go/VB, wrong/JJ, here/RB]"
+The pizza is overpriced and soggy.,0,pizza be overpriced soggy,NN VB JJ JJ,"[pizza/NN, be/VB, overpriced/JJ, soggy/JJ]"
+"Ask for Usha, the nicest bartender in manhattan.",2,ask usha nicest bartender manhattan,NN NN JJ NN JJ,"[ask/NN, usha/NN, nicest/JJ, bartender/NN, manhattan/JJ]"
+Much of the time it seems like they do not care about you.,0,much time seem do not care,JJ NN VB VB RB VB,"[much/JJ, time/NN, seem/VB, do/VB, not/RB, care/VB]"
+"For the people who want great food plus great service, Roxy is a place to AVOID!",0,person want great food great service roxy be place avoid,NN VB JJ NN JJ NN NN VB NN VB,"[person/NN, want/VB, great/JJ, food/NN, great/JJ, service/NN, roxy/NN, be/VB, place/NN, avoid/VB]"
+"When you add it all together, it just doesn't seem worth it to me...especially considering the prices.",0,add together just doesn seem especially consider price,VB RB RB JJ VB RB VB NN,"[add/VB, together/RB, just/RB, doesn/JJ, seem/VB, especially/RB, consider/VB, price/NN]"
+"Then, to top things off, she dropped used silverware on my boyfriend's jacket and did not stop to apologize or clean the mess that was left on clothes. ",0,then top thing drop used silverware boyfriend jacket do not stop apologize clean mess be left clothe,RB VB NN VB JJ NN NN NN VB RB VB VB VB NN VB VB NN,"[then/RB, top/VB, thing/NN, drop/VB, used/JJ, silverware/NN, boyfriend/NN, jacket/NN, do/VB, not/RB, stop/VB, apologize/VB, clean/VB, mess/NN, be/VB, left/VB, clothe/NN]"
+I also recommend the rice dishes or the different varieties of congee (rice porridge).,2,also recommend rice dish different variety congee rice porridge,RB VB NN NN JJ NN JJ NN NN,"[also/RB, recommend/VB, rice/NN, dish/NN, different/JJ, variety/NN, congee/JJ, rice/NN, porridge/NN]"
+"I am so coming back here again, as much as I can.",2,be so coming back here again as much,VB RB JJ NN RB RB RB JJ,"[be/VB, so/RB, coming/JJ, back/NN, here/RB, again/RB, as/RB, much/JJ]"
+"We concluded with tiramisu chocolate cake, both were delicious.",2,conclude tiramisu chocolate cake be delicious,VB NN NN NN VB JJ,"[conclude/VB, tiramisu/NN, chocolate/NN, cake/NN, be/VB, delicious/JJ]"
+Prices are very good.,2,price be very good,NN VB RB JJ,"[price/NN, be/VB, very/RB, good/JJ]"
+"Small servings for main entree, i had salmon (wasnt impressed) girlfriend had chicken, it was good.",0,small serving main entree have salmon wasnt impressed girlfriend have chicken be good,JJ NN JJ NN VB NN VB JJ NN VB NN VB JJ,"[small/JJ, serving/NN, main/JJ, entree/NN, have/VB, salmon/NN, wasnt/VB, impressed/JJ, girlfriend/NN, have/VB, chicken/NN, be/VB, good/JJ]"
+I look forward to eating here again,2,look forward eat here again,VB RB VB RB RB,"[look/VB, forward/RB, eat/VB, here/RB, again/RB]"
+Give it a try and enjoy.,2,give try enjoy,VB NN NN,"[give/VB, try/NN, enjoy/NN]"
+"The service was terrible, we had to wait for everything and ask several of different people for the same thing before we were allowed to be served.",0,service be terrible have wait everything ask several different person same thing be allow be serve,NN VB JJ VB VB NN VB JJ JJ NN JJ NN VB VB VB VB,"[service/NN, be/VB, terrible/JJ, have/VB, wait/VB, everything/NN, ask/VB, several/JJ, different/JJ, person/NN, same/JJ, thing/NN, be/VB, allow/VB, be/VB, serve/VB]"
+Authentic Pakistani food.,2,authentic pakistani food,JJ NN NN,"[authentic/JJ, pakistani/NN, food/NN]"
+"From the spectacular caviar to the hospitable waitstaff, I felt like royalty and enjoyed every second of it.",2,spectacular caviar hospitable waitstaff feel royalty enjoy second,JJ NN JJ NN VB NN VB JJ,"[spectacular/JJ, caviar/NN, hospitable/JJ, waitstaff/NN, feel/VB, royalty/NN, enjoy/VB, second/JJ]"
+"The anti-pasta was excellent, especially the calamari, as were the filling pasta mains.",2,pasta be excellent especially calamari be fill pasta main,NN VB JJ RB NN VB VB NN NN,"[pasta/NN, be/VB, excellent/JJ, especially/RB, calamari/NN, be/VB, fill/VB, pasta/NN, main/NN]"
+The location is perfect.,2,location be perfect,NN VB JJ,"[location/NN, be/VB, perfect/JJ]"
+And amazingly cheap.,2,amazingly cheap,RB JJ,"[amazingly/RB, cheap/JJ]"
+"i happen to have a policy that goes along with a little bit of self-respect, which includes not letting a waiter intimidate me, i.e. make me feel bad asking for trivialities like water, or the check.",0,happen have policy go little bit self respect include not let waiter intimidate make feel bad ask triviality water check,VB VB NN VB JJ NN NN NN VB RB VB NN VB VB VB JJ VB NN NN NN,"[happen/VB, have/VB, policy/NN, go/VB, little/JJ, bit/NN, self/NN, respect/NN, include/VB, not/RB, let/VB, waiter/NN, intimidate/VB, make/VB, feel/VB, bad/JJ, ask/VB, triviality/NN, water/NN, check/NN]"
+Love Pizza 33..,2,love pizza,VB NN,"[love/VB, pizza/NN]"
+Can't wait to go back.,2,wait go back,VB VB RB,"[wait/VB, go/VB, back/RB]"
+"Rude service, medicore food...there are tons of restaurants in NY...stay away from this one",1,rude service medicore food be ton restaurant ny stay away one,JJ NN JJ NN VB NN NN NN VB RB NN,"[rude/JJ, service/NN, medicore/JJ, food/NN, be/VB, ton/NN, restaurant/NN, ny/NN, stay/VB, away/RB, one/NN]"
+"Try the Pad Thai, it's fabulous and their prices are so cheap!",2,try pad thai fabulous price be so cheap,VB NN NN JJ NN VB RB RB,"[try/VB, pad/NN, thai/NN, fabulous/JJ, price/NN, be/VB, so/RB, cheap/RB]"
+Hurley's is like Cheers where everyone knows your name and they are ACTUALLY glad you came.,2,hurley be cheer everyone know name be actually glad come,NN VB NN NN VB NN VB RB JJ VB,"[hurley/NN, be/VB, cheer/NN, everyone/NN, know/VB, name/NN, be/VB, actually/RB, glad/JJ, come/VB]"
+Ess-A-Bagel (either by Sty-town or midtown) is by far the best bagel in NY.,2,ess bagel sty town midtown be far best bagel ny,RB NN JJ NN VB VB RB JJ NN NN,"[ess/RB, bagel/NN, sty/JJ, town/NN, midtown/VB, be/VB, far/RB, best/JJ, bagel/NN, ny/NN]"
+"The first time I went, and was completely taken by the live jazz band and atmosphere, I ordered the Lobster Cobb Salad.",2,first time go be completely take live jazz band atmosphere order lobster cobb salad,JJ NN VB VB RB VB JJ NN NN NN VB NN JJ NN,"[first/JJ, time/NN, go/VB, be/VB, completely/RB, take/VB, live/JJ, jazz/NN, band/NN, atmosphere/NN, order/VB, lobster/NN, cobb/JJ, salad/NN]"
+I'm partial to the Gnocchi.,2,partial gnocchi,JJ NN,"[partial/JJ, gnocchi/NN]"
+Keep up the good work guys!,2,keep good work guy,VB JJ NN NN,"[keep/VB, good/JJ, work/NN, guy/NN]"
+LOVE the atmosphere - felt like I was in Paris.,2,love atmosphere feel be paris,VB NN VB VB NN,"[love/VB, atmosphere/NN, feel/VB, be/VB, paris/NN]"
+Our server was very helpful and friendly.,2,server be very helpful friendly,NN VB RB JJ JJ,"[server/NN, be/VB, very/RB, helpful/JJ, friendly/JJ]"
+I loved everythig about it-especially the shows and actors.,2,love everythig especially show actor,VB NN RB NN NN,"[love/VB, everythig/NN, especially/RB, show/NN, actor/NN]"
+Definitely worth the trip to Battery Park City!,2,definitely trip battery park city,RB NN NN NN NN,"[definitely/RB, trip/NN, battery/NN, park/NN, city/NN]"
+Go there once and oh yes...you will go back...you will...,2,go there once yes go back,VB RB RB RB VB RB,"[go/VB, there/RB, once/RB, yes/RB, go/VB, back/RB]"
+I absolutely Loved this place.,2,absolutely love place,RB VB NN,"[absolutely/RB, love/VB, place/NN]"
+"I've also been amazed at all the new additions in the past few years: A new Jazz Bar, the most fantastic Dining Garden, the Best Thin Crust Pizzas, and now a Lasagna Menu which is to die for (these are not your average lasagnas)!",2,ve also be amaze new addition past few year new jazz bar most fantastic dining garden best thin crust pizza now lasagna menu be die be not average lasagna,NN RB VB VB JJ NN JJ JJ NN JJ NN NN RB JJ NN NN JJ JJ NN NN RB JJ NN VB VB VB RB NN NN,"[ve/NN, also/RB, be/VB, amaze/VB, new/JJ, addition/NN, past/JJ, few/JJ, year/NN, new/JJ, jazz/NN, bar/NN, most/RB, fantastic/JJ, dining/NN, garden/NN, best/JJ, thin/JJ, crust/NN, pizza/NN, now/RB, lasagna/JJ, menu/NN, be/VB, die/VB, be/VB, not/RB, average/NN, lasagna/NN]"
+"I like Cafe Noir dont get me wrong, it is jsut that the people who work there are evil and incompetent!!",2,cafe dont get wrong be jsut person work be evil incompetent,NN VB VB JJ VB RB NN VB VB JJ JJ,"[cafe/NN, dont/VB, get/VB, wrong/JJ, be/VB, jsut/RB, person/NN, work/VB, be/VB, evil/JJ, incompetent/JJ]"
+"This is some really good, inexpensive sushi.",2,be really good inexpensive sushi,VB RB JJ JJ NN,"[be/VB, really/RB, good/JJ, inexpensive/JJ, sushi/NN]"
+"Everything I had was good, and I'm a eater.",2,everything have be good eater,NN VB VB JJ NN,"[everything/NN, have/VB, be/VB, good/JJ, eater/NN]"
+We will definitely go back.,2,definitely go back,RB VB RB,"[definitely/RB, go/VB, back/RB]"
+I highly recommend the Sophia pizza.,2,highly recommend sophia pizza,RB VB JJ NN,"[highly/RB, recommend/VB, sophia/JJ, pizza/NN]"
+"This tiny restaurant is as cozy as it gets, with that certain Parisian flair.",2,tiny restaurant be cozy get certain parisian flair,JJ NN VB JJ VB JJ JJ NN,"[tiny/JJ, restaurant/NN, be/VB, cozy/JJ, get/VB, certain/JJ, parisian/JJ, flair/NN]"
+The sake menu should not be overlooked!,2,sake menu not be overlooked,NN NN RB VB JJ,"[sake/NN, menu/NN, not/RB, be/VB, overlooked/JJ]"
+My friend got the mushroom pizza which tasted better.,2,friend get mushroom pizza taste better,NN VB NN NN VB RB,"[friend/NN, get/VB, mushroom/NN, pizza/NN, taste/VB, better/RB]"
+I ate here a week ago and found most dishes average at best and too expensive.,0,eat here week ago find most dish average best too expensive,VB RB NN RB VB RB NN VB JJ RB JJ,"[eat/VB, here/RB, week/NN, ago/RB, find/VB, most/RB, dish/NN, average/VB, best/JJ, too/RB, expensive/JJ]"
+The Prix Fixe menu is worth every penny and you get more than enough (both in quantity AND quality).,2,prix fixe menu be worth penny get more enough quantity quality,NN JJ NN VB JJ NN VB JJ RB NN NN,"[prix/NN, fixe/JJ, menu/NN, be/VB, worth/JJ, penny/NN, get/VB, more/JJ, enough/RB, quantity/NN, quality/NN]"
+"The waitress, seems to be more concerned of looking good than actually waitressing.",0,waitress seem be more concerned look good actually waitressing,NN VB VB RB JJ VB JJ RB JJ,"[waitress/NN, seem/VB, be/VB, more/RB, concerned/JJ, look/VB, good/JJ, actually/RB, waitressing/JJ]"
+"If you are looking for a good quality, cheap eats - this is the place.",2,be look good quality cheap eat be place,VB VB JJ NN RB VB VB NN,"[be/VB, look/VB, good/JJ, quality/NN, cheap/RB, eat/VB, be/VB, place/NN]"
+"I come from a family of pizzeria owners, and I'm almost ashamed to say that the pizza in Fornino's blows my families receipies away.",2,come family pizzeria owner almost ashamed say pizza fornino blow family receipy away,VB NN NN NN RB JJ VB NN NN NN NN NN RB,"[come/VB, family/NN, pizzeria/NN, owner/NN, almost/RB, ashamed/JJ, say/VB, pizza/NN, fornino/NN, blow/NN, family/NN, receipy/NN, away/RB]"
+Everything we had was good or ok....but definitely nothing great.,1,everything have be good definitely nothing great,NN VB VB JJ RB NN JJ,"[everything/NN, have/VB, be/VB, good/JJ, definitely/RB, nothing/NN, great/JJ]"
+Open late (well as late as I ever got there and I'm a night person),2,open late well late ever get there night person,JJ RB RB RB RB VB RB NN NN,"[open/JJ, late/RB, well/RB, late/RB, ever/RB, get/VB, there/RB, night/NN, person/NN]"
+It's definately not a place to go if you want to impress someone.,0,definately not place go want impress someone,RB RB NN VB VB VB NN,"[definately/RB, not/RB, place/NN, go/VB, want/VB, impress/VB, someone/NN]"
+"Overall, excellent restaurant!",2,overall excellent restaurant,JJ JJ NN,"[overall/JJ, excellent/JJ, restaurant/NN]"
+Faan is sooo good.,2,faan be sooo good,NN VB RB JJ,"[faan/NN, be/VB, sooo/RB, good/JJ]"
+Excellent spot for holiday get togethers with co-workers or friends that you haven't seen in a while.,2,excellent spot holiday get together co worker friend haven see,JJ NN NN VB NN JJ NN NN NN VB,"[excellent/JJ, spot/NN, holiday/NN, get/VB, together/NN, co/JJ, worker/NN, friend/NN, haven/NN, see/VB]"
+The shrimp scampi was excellent and the antipasti were plentiful.,2,shrimp scampi be excellent antipastus be plentiful,NN NN VB JJ NN VB JJ,"[shrimp/NN, scampi/NN, be/VB, excellent/JJ, antipastus/NN, be/VB, plentiful/JJ]"
+"Other guests enjoyed pizza, santa fe chopped salad and fish and chips.",2,other guest enjoyed pizza santa fe chopped salad fish chip,JJ NN JJ NN NN NN JJ NN NN NN,"[other/JJ, guest/NN, enjoyed/JJ, pizza/NN, santa/NN, fe/NN, chopped/JJ, salad/NN, fish/NN, chip/NN]"
+"It is terrific, as is the value.",2,be terrific be value,VB JJ VB NN,"[be/VB, terrific/JJ, be/VB, value/NN]"
+I have never before eaten 40 pieces of relatively good nigiri.,1,have never before eat piece relatively good nigiri,VB RB VB VB NN RB JJ NN,"[have/VB, never/RB, before/VB, eat/VB, piece/NN, relatively/RB, good/JJ, nigiri/NN]"
+Murray won't do it.,0,murray win do,JJ VB VB,"[murray/JJ, win/VB, do/VB]"
+A little pricey but it really hits the spot on a Sunday morning!,2,little pricey really hit spot sunday morning,JJ JJ RB VB NN NN NN,"[little/JJ, pricey/JJ, really/RB, hit/VB, spot/NN, sunday/NN, morning/NN]"
+"The signs, the specials menus, food, and even all the waitstaff are ALL TOTALLY Japanese.",2,sign special menu food even waitstaff be totally japanese,NN NN NN NN RB NN VB RB JJ,"[sign/NN, special/NN, menu/NN, food/NN, even/RB, waitstaff/NN, be/VB, totally/RB, japanese/JJ]"
+Go here for a romantic dinner but not for an all out wow dining experience.,0,go here romantic dinner not all out dining experience,VB RB JJ NN RB RB RB JJ NN,"[go/VB, here/RB, romantic/JJ, dinner/NN, not/RB, all/RB, out/RB, dining/JJ, experience/NN]"
+"This is a great place to take out-of-towners, and perfect for watching the sunset.",2,be great place take towner perfect watch sunset,VB JJ NN VB NN JJ VB NN,"[be/VB, great/JJ, place/NN, take/VB, towner/NN, perfect/JJ, watch/VB, sunset/NN]"
+The lava cake dessert was incredible and I recommend it.,2,lava cake dessert be incredible recommend,NN NN NN VB JJ VB,"[lava/NN, cake/NN, dessert/NN, be/VB, incredible/JJ, recommend/VB]"
+My chow fun and chow see was really bland and oily.,0,chow fun chow see be really bland oily,NN NN NN NN VB RB JJ JJ,"[chow/NN, fun/NN, chow/NN, see/NN, be/VB, really/RB, bland/JJ, oily/JJ]"
+"The atmosphere is unheralded, the service impecible, and the food magnificant.",2,atmosphere be unheralded service impecible food magnificant,NN VB JJ NN JJ NN NN,"[atmosphere/NN, be/VB, unheralded/JJ, service/NN, impecible/JJ, food/NN, magnificant/NN]"
+"My husbands was perfect, my was well done and dry.",2,husband be perfect be well do dry,NN VB JJ VB RB VB JJ,"[husband/NN, be/VB, perfect/JJ, be/VB, well/RB, do/VB, dry/JJ]"
+They charge different prices all the time.,0,charge different price time,VB JJ NN NN,"[charge/VB, different/JJ, price/NN, time/NN]"
+The service is awful.,0,service be awful,NN VB JJ,"[service/NN, be/VB, awful/JJ]"
+The outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful.,2,outdoor atmosphere sit sidewalk watch world go foot away avenue cool evening be wonderful,JJ NN VB NN VB NN VB NN RB NN JJ NN VB JJ,"[outdoor/JJ, atmosphere/NN, sit/VB, sidewalk/NN, watch/VB, world/NN, go/VB, foot/NN, away/RB, avenue/NN, cool/JJ, evening/NN, be/VB, wonderful/JJ]"
+I recently tried Suan and I thought that it was great.,2,recently try suan think be great,RB VB JJ VB VB JJ,"[recently/RB, try/VB, suan/JJ, think/VB, be/VB, great/JJ]"
+I will be out with friends and all of a sudden I am hungry and I only crave one thing... their Pizza.,2,be out friend sudden be hungry only crave thing pizza,VB RB NN JJ VB JJ RB VB NN NN,"[be/VB, out/RB, friend/NN, sudden/JJ, be/VB, hungry/JJ, only/RB, crave/VB, thing/NN, pizza/NN]"
+"The fish was really,really fresh.",2,fish be really really fresh,NN VB RB RB JJ,"[fish/NN, be/VB, really/RB, really/RB, fresh/JJ]"
+The food was absolutely amazing!!,2,food be absolutely amazing,NN VB RB JJ,"[food/NN, be/VB, absolutely/RB, amazing/JJ]"
+I'm glad I was introduced to this place and this is a rare gem in NY.,2,glad be introduce place be rare gem ny,JJ VB VB NN VB JJ NN NN,"[glad/JJ, be/VB, introduce/VB, place/NN, be/VB, rare/JJ, gem/NN, ny/NN]"
+THe perfect spot.,2,perfect spot,JJ NN,"[perfect/JJ, spot/NN]"
+It looked like shredded cheese partly done - still in strips.,0,look shredded cheese partly do still strip,VB JJ NN RB VB RB NN,"[look/VB, shredded/JJ, cheese/NN, partly/RB, do/VB, still/RB, strip/NN]"
+"Try everything for that matter, it is all good.",2,try everything matter be good,NN NN NN VB JJ,"[try/NN, everything/NN, matter/NN, be/VB, good/JJ]"
+Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.,2,add great service great food reasonable price have begin great evening,VB JJ NN JJ NN JJ NN VB VB JJ NN,"[add/VB, great/JJ, service/NN, great/JJ, food/NN, reasonable/JJ, price/NN, have/VB, begin/VB, great/JJ, evening/NN]"
+Food-awesome.,2,food awesome,NN JJ,"[food/NN, awesome/JJ]"
+It is definitely a good spot for snacks and chat.,2,be definitely good spot snack chat,VB RB JJ NN NN NN,"[be/VB, definitely/RB, good/JJ, spot/NN, snack/NN, chat/NN]"
+Food was good not great not worth the wait or another visit,1,food be good not great not wait visit,NN VB JJ RB JJ RB NN NN,"[food/NN, be/VB, good/JJ, not/RB, great/JJ, not/RB, wait/NN, visit/NN]"
+I'm going back.,2,go back,VB RB,"[go/VB, back/RB]"
+"I had their eggs benedict for brunch, which were the worst in my entire life, I tried removing the hollondaise sauce completely that was how failed it was.",0,have egg benedict brunch be worst entire life try remove hollondaise sauce completely be failed be,VB NN NN NN VB JJ JJ NN VB VB NN NN RB VB JJ VB,"[have/VB, egg/NN, benedict/NN, brunch/NN, be/VB, worst/JJ, entire/JJ, life/NN, try/VB, remove/VB, hollondaise/NN, sauce/NN, completely/RB, be/VB, failed/JJ, be/VB]"
+This place is not worth the prices.,0,place be not price,NN VB RB NN,"[place/NN, be/VB, not/RB, price/NN]"
+HIGHLY RECOMMENDED!!!!!,2,highly recommend,RB VB,"[highly/RB, recommend/VB]"
+"The waitress moved our table practically into the bathroom and when we asked to cancel our dinner orders because we did not want to eat sitting on the toilet, we were told no...",0,waitress move table practically bathroom ask cancel dinner order do not want eat sit toilet be tell,NN VB NN RB NN VB VB NN NN VB RB VB VB VB NN VB VB,"[waitress/NN, move/VB, table/NN, practically/RB, bathroom/NN, ask/VB, cancel/VB, dinner/NN, order/NN, do/VB, not/RB, want/VB, eat/VB, sit/VB, toilet/NN, be/VB, tell/VB]"
+Unique apppetizers.,2,unique apppetizer,JJ NN,"[unique/JJ, apppetizer/NN]"
+"sometimes i get bad food and bad service, sometimes i get good good and bad service.",0,sometimes get bad food bad service sometimes get good good bad service,RB VB JJ NN JJ NN RB VB JJ JJ JJ NN,"[sometimes/RB, get/VB, bad/JJ, food/NN, bad/JJ, service/NN, sometimes/RB, get/VB, good/JJ, good/JJ, bad/JJ, service/NN]"
+"They forgot a sandwich, didn't include plastic forks, and didn't include pita with the hummus platter.",0,forget sandwich didn include plastic fork didn include pita hummus platter,VB NN VB VB JJ NN VB VB JJ JJ JJ,"[forget/VB, sandwich/NN, didn/VB, include/VB, plastic/JJ, fork/NN, didn/VB, include/VB, pita/JJ, hummus/JJ, platter/JJ]"
+Get the pepperoni - YUM - and a family style salad.,2,get pepperoni yum family style salad,VB NN NN NN NN NN,"[get/VB, pepperoni/NN, yum/NN, family/NN, style/NN, salad/NN]"
+I have been to Rao's probably 15 times the past 3 years and it keeps getting better.,2,have be rao probably time past year keep get better,VB VB VB RB NN JJ NN VB VB JJ,"[have/VB, be/VB, rao/VB, probably/RB, time/NN, past/JJ, year/NN, keep/VB, get/VB, better/JJ]"
+"The large selection of bruschettas, paninis, tramezzinis keep the palate from stagnating.",2,large selection bruschetta paninis tramezzinis keep palate stagnate,JJ NN NN NN NN VB NN VB,"[large/JJ, selection/NN, bruschetta/NN, paninis/NN, tramezzinis/NN, keep/VB, palate/NN, stagnate/VB]"
+"I found it on a cold night, the perfect spot to warm up.",2,find cold night perfect spot warm,VB JJ NN JJ NN VB,"[find/VB, cold/JJ, night/NN, perfect/JJ, spot/NN, warm/VB]"
+"The crust is thin, the ingredients are fresh and the staff is friendly.",2,crust be thin ingredient be fresh staff be friendly,NN VB JJ NN VB JJ NN VB JJ,"[crust/NN, be/VB, thin/JJ, ingredient/NN, be/VB, fresh/JJ, staff/NN, be/VB, friendly/JJ]"
+"Whether it's the parmesean porcini souffle or the lamb glazed with balsamic vinegar, you will surely be transported to Northern Italy with one bite.",2,parmesean porcini souffle lamb glaze balsamic vinegar surely be transport northern italy bite,NN NN NN NN VB JJ NN RB VB VB JJ NN NN,"[parmesean/NN, porcini/NN, souffle/NN, lamb/NN, glaze/VB, balsamic/JJ, vinegar/NN, surely/RB, be/VB, transport/VB, northern/JJ, italy/NN, bite/NN]"
+Also they were $15 each!,0,also be,RB VB,"[also/RB, be/VB]"
+Traditional French decour was pleasant though the hall was rather noisy - the restaurant was full and we had to raise our voices to be able to maintain a conversation.,0,traditional french decour be pleasant hall be rather noisy restaurant be full have raise voice be able maintain conversation,JJ JJ NN VB JJ NN VB RB JJ NN VB JJ VB VB NN VB JJ VB NN,"[traditional/JJ, french/JJ, decour/NN, be/VB, pleasant/JJ, hall/NN, be/VB, rather/RB, noisy/JJ, restaurant/NN, be/VB, full/JJ, have/VB, raise/VB, voice/NN, be/VB, able/JJ, maintain/VB, conversation/NN]"
+Tiny dessert was $8.00...just plain overpriced for what it is.,0,tiny dessert be just plain overpriced be,JJ NN VB RB RB JJ VB,"[tiny/JJ, dessert/NN, be/VB, just/RB, plain/RB, overpriced/JJ, be/VB]"
+The duck confit is always amazing and the foie gras terrine with figs was out of this world.,2,duck confit be always amazing foie gra terrine fig be world,NN NN VB RB JJ NN VB NN NN VB NN,"[duck/NN, confit/NN, be/VB, always/RB, amazing/JJ, foie/NN, gra/VB, terrine/NN, fig/NN, be/VB, world/NN]"
+"Fabulous decor - makes you feel like you're in a trendy Manhattan restaurant, very very good food, cheaply-priced, generally friendly staff, and if you're a Manhattanite, or spend most of your time in Manhattan, Rice Avenue will make you feel at home.....very Soho/Village/Upper West Side minus the expensive prices and pretentious clientele.....all on Roosevelt Avenue!",2,fabulous decor make feel re trendy manhattan restaurant very very good food cheaply price generally friendly staff re manhattanite spend most time manhattan rice avenue make feel home very soho village upper west side expensive price pretentious clientele roosevelt avenue,JJ NN VB VB NN JJ NN NN RB RB JJ NN RB VB RB JJ NN NN NN VB RB NN JJ NN NN VB VB NN RB JJ NN JJ NN NN JJ NN JJ NN NN NN,"[fabulous/JJ, decor/NN, make/VB, feel/VB, re/NN, trendy/JJ, manhattan/NN, restaurant/NN, very/RB, very/RB, good/JJ, food/NN, cheaply/RB, price/VB, generally/RB, friendly/JJ, staff/NN, re/NN, manhattanite/NN, spend/VB, most/RB, time/NN, manhattan/JJ, rice/NN, avenue/NN, make/VB, feel/VB, home/NN, very/RB, soho/JJ, village/NN, upper/JJ, west/NN, side/NN, expensive/JJ, price/NN, pretentious/JJ, clientele/NN, roosevelt/NN, avenue/NN]"
+"This place is pricey, and yes, the food is worth it; but the service makes you feel like you should be paying a quater of the price.",2,place be pricey yes food be worth service make feel be pay quater price,NN VB JJ RB NN VB JJ NN VB VB VB VB NN NN,"[place/NN, be/VB, pricey/JJ, yes/RB, food/NN, be/VB, worth/JJ, service/NN, make/VB, feel/VB, be/VB, pay/VB, quater/NN, price/NN]"
+It was divine melts in your mouth.,2,be divine melt mouth,VB JJ VB NN,"[be/VB, divine/JJ, melt/VB, mouth/NN]"
+Somehow working the italian charm with constant mille grazie does not constitute proper service.,0,somehow italian charm constant mille grazie do not constitute proper service,RB JJ NN JJ NN NN VB RB JJ JJ NN,"[somehow/RB, italian/JJ, charm/NN, constant/JJ, mille/NN, grazie/NN, do/VB, not/RB, constitute/JJ, proper/JJ, service/NN]"
+You can't go wrong with this place.,2,go wrong place,VB JJ NN,"[go/VB, wrong/JJ, place/NN]"
+A little overpriced but worth it once you take a bite.,2,little overpriced worth once take bite,JJ JJ JJ RB VB NN,"[little/JJ, overpriced/JJ, worth/JJ, once/RB, take/VB, bite/NN]"
+Taxan delicious!,2,taxan delicious,NN JJ,"[taxan/NN, delicious/JJ]"
+Love YUKA.,2,love yuka,VB RB,"[love/VB, yuka/RB]"
+JUST AWSOME.,2,just,RB,[just/RB]
+"This place, which is only a few months old, is perhaps Queens' biggest secret!",2,place be only few month old be perhaps queen biggest secret,NN VB RB JJ NN JJ VB RB NN JJ VB,"[place/NN, be/VB, only/RB, few/JJ, month/NN, old/JJ, be/VB, perhaps/RB, queen/NN, biggest/JJ, secret/VB]"
+You should pass on the calamari.,0,pass calamari,VB NN,"[pass/VB, calamari/NN]"
+Thank You Emilio.,2,thank emilio,NN NN,"[thank/NN, emilio/NN]"
+Loved it!,2,love,VB,[love/VB]
+"Luckily we saved room for the BBQ Salmon, Sea Bass and Crispy Duck.",2,luckily save room bbq salmon sea bass crispy duck,RB VB NN JJ NN NN NN JJ NN,"[luckily/RB, save/VB, room/NN, bbq/JJ, salmon/NN, sea/NN, bass/NN, crispy/JJ, duck/NN]"
+"The fish was adequate, but inexpertly sliced.",0,fish be adequate inexpertly slice,NN VB JJ RB VB,"[fish/NN, be/VB, adequate/JJ, inexpertly/RB, slice/VB]"
+Wonderful at holiday time.,2,wonderful holiday time,JJ NN NN,"[wonderful/JJ, holiday/NN, time/NN]"
+Slightly on the pricey side but worth it!,2,slightly pricey side worth,RB JJ NN JJ,"[slightly/RB, pricey/JJ, side/NN, worth/JJ]"
+"So close, but not good enough.",1,so close not good enough,RB JJ RB JJ JJ,"[so/RB, close/JJ, not/RB, good/JJ, enough/JJ]"
+I'm sure I'll return for a final judgement tho.,1,sure ll return final judgement tho,JJ NN NN JJ NN NN,"[sure/JJ, ll/NN, return/NN, final/JJ, judgement/NN, tho/NN]"
+Mizu is home to creative and unique rolls not to found anywhere else.,2,mizu be home creative unique roll not find anywhere else,NN VB NN JJ JJ NN RB VB RB RB,"[mizu/NN, be/VB, home/NN, creative/JJ, unique/JJ, roll/NN, not/RB, find/VB, anywhere/RB, else/RB]"
+"For the price, you cannot eat this well in Manhattan.",2,price eat well manhattan,NN VB RB JJ,"[price/NN, eat/VB, well/RB, manhattan/JJ]"
+Highly recommended to all!,2,highly recommend,RB VB,"[highly/RB, recommend/VB]"
+I go twice a month!,2,go twice month,VB RB NN,"[go/VB, twice/RB, month/NN]"
+"Considering we were the last patrons there and it was after the closing time, the waitstaff did not rush us at all and made us feel comfortable and relaxed.",2,consider be last patron there be closing time waitstaff do not rush make feel comfortable relax,VB VB JJ NN RB VB JJ NN NN VB RB VB VB VB JJ VB,"[consider/VB, be/VB, last/JJ, patron/NN, there/RB, be/VB, closing/JJ, time/NN, waitstaff/NN, do/VB, not/RB, rush/VB, make/VB, feel/VB, comfortable/JJ, relax/VB]"
+"Not only is the cuisine the best around, the service has always been attentive and charming.",2,not only be cuisine best service have always be attentive charming,RB RB VB NN JJ NN VB RB VB JJ JJ,"[not/RB, only/RB, be/VB, cuisine/NN, best/JJ, service/NN, have/VB, always/RB, be/VB, attentive/JJ, charming/JJ]"
+"My friends settled for rice dishes, but we came back the following day to try the dim sum, which was good...not outstanding, but good.",1,friend settle rice dish come back following day try dim sum be good not outstanding good,NN VB NN NN VB RB JJ NN VB JJ NN VB JJ RB JJ JJ,"[friend/NN, settle/VB, rice/NN, dish/NN, come/VB, back/RB, following/JJ, day/NN, try/VB, dim/JJ, sum/NN, be/VB, good/JJ, not/RB, outstanding/JJ, good/JJ]"
+The characters really make for an enjoyable experience.,2,character really make enjoyable experience,NN RB VB JJ NN,"[character/NN, really/RB, make/VB, enjoyable/JJ, experience/NN]"
+Decent wine at reasonable prices.,1,decent wine reasonable price,JJ NN JJ NN,"[decent/JJ, wine/NN, reasonable/JJ, price/NN]"
+skip dessert.,0,skip dessert,NN NN,"[skip/NN, dessert/NN]"
+The price is reasonable although the service is poor.,2,price be reasonable service be poor,NN VB JJ NN VB JJ,"[price/NN, be/VB, reasonable/JJ, service/NN, be/VB, poor/JJ]"
+The portions are large and the servers always surprise us with a different starter.,2,portion be large server always surprise different starter,NN VB JJ NN RB VB JJ NN,"[portion/NN, be/VB, large/JJ, server/NN, always/RB, surprise/VB, different/JJ, starter/NN]"
+"The dinner was ok, nothing I would have again.",0,dinner be nothing have again,NN VB NN VB RB,"[dinner/NN, be/VB, nothing/NN, have/VB, again/RB]"
+"Quite frankly, this is some of the worst sushi I have ever tried.",0,quite frankly be worst sushi have ever try,RB RB VB JJ NN VB RB VB,"[quite/RB, frankly/RB, be/VB, worst/JJ, sushi/NN, have/VB, ever/RB, try/VB]"
+I've never had bad service and the fish is fresh and delicious.,2,ve never have bad service fish be fresh delicious,NN RB VB JJ NN NN VB JJ JJ,"[ve/NN, never/RB, have/VB, bad/JJ, service/NN, fish/NN, be/VB, fresh/JJ, delicious/JJ]"
+The service was the only thing good about this restaurant.,2,service be only thing good restaurant,NN VB JJ NN JJ NN,"[service/NN, be/VB, only/JJ, thing/NN, good/JJ, restaurant/NN]"
+A restaurant that doesn't try to do anything except serve great food with great service in a pleasant atmosphere.,2,restaurant doesn try do anything serve great food great service pleasant atmosphere,NN VB NN VB NN NN JJ NN JJ NN JJ NN,"[restaurant/NN, doesn/VB, try/NN, do/VB, anything/NN, serve/NN, great/JJ, food/NN, great/JJ, service/NN, pleasant/JJ, atmosphere/NN]"
+"The food is decent at best, and the ambience, well, it's a matter of opinion, some may consider it to be a sweet thing, I thought it was just annoying.",0,food be decent best ambience well matter opinion consider be sweet thing think be just annoying,NN VB JJ JJ NN RB NN NN VB VB JJ NN VB VB RB JJ,"[food/NN, be/VB, decent/JJ, best/JJ, ambience/NN, well/RB, matter/NN, opinion/NN, consider/VB, be/VB, sweet/JJ, thing/NN, think/VB, be/VB, just/RB, annoying/JJ]"
+I will be back!,2,be back,VB RB,"[be/VB, back/RB]"
+"Immediately after we paid, the waiter took the money and said, okay, you guys are outta here.",0,immediately paid waiter take money say okay guy be here,RB VB NN VB NN VB JJ NN VB RB,"[immediately/RB, paid/VB, waiter/NN, take/VB, money/NN, say/VB, okay/JJ, guy/NN, be/VB, here/RB]"
+"It may be a bit packed on weekends, but the vibe is good and it is the best French food you will find in the area.",2,be bit pack weekend vibe be good be best french food find area,VB NN VB NN NN VB JJ VB JJ JJ NN VB NN,"[be/VB, bit/NN, pack/VB, weekend/NN, vibe/NN, be/VB, good/JJ, be/VB, best/JJ, french/JJ, food/NN, find/VB, area/NN]"
+The staff is no nonsense.,2,staff be nonsense,NN VB NN,"[staff/NN, be/VB, nonsense/NN]"
+All the people that I bring there go back on their own and bring THEIR friends!,2,person bring there go back own bring friend,NN VB RB VB RB JJ VB NN,"[person/NN, bring/VB, there/RB, go/VB, back/RB, own/JJ, bring/VB, friend/NN]"
+Stepped on my foot on the SECOND time he reached over me to adjust lighting.,0,step foot second time reach adjust light,VB NN JJ NN VB VB VB,"[step/VB, foot/NN, second/JJ, time/NN, reach/VB, adjust/VB, light/VB]"
+This is one of my favorite restaurants and it is not to be missed.,2,be favorite restaurant be not be miss,VB JJ NN VB RB VB VB,"[be/VB, favorite/JJ, restaurant/NN, be/VB, not/RB, be/VB, miss/VB]"
+"Yes, the prices are high, but I felt it was worth it.",2,yes price be high felt be worth,RB NN VB JJ NN VB JJ,"[yes/RB, price/NN, be/VB, high/JJ, felt/NN, be/VB, worth/JJ]"
+This tiny Williamsburg spot is always pleasantly surprising.,2,tiny williamsburg spot be always pleasantly surprising,JJ JJ NN VB RB RB JJ,"[tiny/JJ, williamsburg/JJ, spot/NN, be/VB, always/RB, pleasantly/RB, surprising/JJ]"
+The pizza was pretty good and huge.,2,pizza be pretty good huge,NN VB RB JJ JJ,"[pizza/NN, be/VB, pretty/RB, good/JJ, huge/JJ]"
+"the pad se ew chicken was delicious, however the pad thai was far too oily.",0,pad ew chicken be delicious however pad thai be far too oily,NN JJ NN VB JJ RB NN NN VB RB RB JJ,"[pad/NN, ew/JJ, chicken/NN, be/VB, delicious/JJ, however/RB, pad/NN, thai/NN, be/VB, far/RB, too/RB, oily/JJ]"
+"We went here for lunch a couple of weeks ago on a Saturday, and I was thoroughly impressed with the food.",2,go here lunch couple week saturday be thoroughly impress food,VB RB NN NN NN NN VB RB VB NN,"[go/VB, here/RB, lunch/NN, couple/NN, week/NN, saturday/NN, be/VB, thoroughly/RB, impress/VB, food/NN]"
+Cozy romantic atomosphere with only around 15 tables at most.,2,cozy romantic atomosphere only table most,JJ JJ RB JJ NN JJ,"[cozy/JJ, romantic/JJ, atomosphere/RB, only/JJ, table/NN, most/JJ]"
+I think that it is absolutely brilliant and well runned business operation.,2,think be absolutely brilliant well runned business operation,VB VB RB JJ RB JJ NN NN,"[think/VB, be/VB, absolutely/RB, brilliant/JJ, well/RB, runned/JJ, business/NN, operation/NN]"
+My boyfriend had Prime Rib it was good .,2,boyfriend have prime rib be good,NN VB JJ NN VB JJ,"[boyfriend/NN, have/VB, prime/JJ, rib/NN, be/VB, good/JJ]"
+Good luck getting a table.,0,good luck get table,JJ NN VB NN,"[good/JJ, luck/NN, get/VB, table/NN]"
+"Seating is always prompt, though the restaurant does fill up in the evening.",2,seating be always prompt restaurant do fill evening,NN VB RB JJ NN VB VB NN,"[seating/NN, be/VB, always/RB, prompt/JJ, restaurant/NN, do/VB, fill/VB, evening/NN]"
+"Went on a 3 day oyster binge, with Fish bringing up the closing, and I am so glad this was the place it O trip ended, because it was so great!",2,go day oyster binge fish bring closing be so glad be place trip end be so great,VB NN NN NN NN VB NN VB RB JJ VB NN NN VB VB RB JJ,"[go/VB, day/NN, oyster/NN, binge/NN, fish/NN, bring/VB, closing/NN, be/VB, so/RB, glad/JJ, be/VB, place/NN, trip/NN, end/VB, be/VB, so/RB, great/JJ]"
+The spicy Tuna roll is huge and probably the best that I've had at this price range.,2,spicy tuna roll be huge probably best ve have price range,JJ NN NN VB JJ RB JJ NN VB NN NN,"[spicy/JJ, tuna/NN, roll/NN, be/VB, huge/JJ, probably/RB, best/JJ, ve/NN, have/VB, price/NN, range/NN]"
+"The in-house lady DJ on Saturday nights has outrageously good taste in music, and moreover, takes requests.",2,house lady dj saturday night have outrageously good taste music moreover take request,NN NN NN NN NN VB RB JJ NN NN RB VB NN,"[house/NN, lady/NN, dj/NN, saturday/NN, night/NN, have/VB, outrageously/RB, good/JJ, taste/NN, music/NN, moreover/RB, take/VB, request/NN]"
+The food was good.,2,food be good,NN VB JJ,"[food/NN, be/VB, good/JJ]"
+I cannot imagine a friendlier staff working in a restaurant.,2,imagine friendlier staff working restaurant,VB JJ NN NN NN,"[imagine/VB, friendlier/JJ, staff/NN, working/NN, restaurant/NN]"
+Service was prompt and courteous.,2,service be prompt courteous,NN VB JJ JJ,"[service/NN, be/VB, prompt/JJ, courteous/JJ]"
+Never have I had such dramatic delivery guys (a lot of huffing and panting and muttering under breath b/c I live in a walkup) who always seem disappointed with their tips.,0,never have have such dramatic delivery guy lot huffing pant mutter breath live walkup always seem disappoint tip,RB VB VB JJ JJ NN NN NN NN VB VB NN VB NN RB VB VB NN,"[never/RB, have/VB, have/VB, such/JJ, dramatic/JJ, delivery/NN, guy/NN, lot/NN, huffing/NN, pant/VB, mutter/VB, breath/NN, live/VB, walkup/NN, always/RB, seem/VB, disappoint/VB, tip/NN]"
+"The pasta penne was pretty extra buttery, creamy which means a big task to diggest.. tasty at first but i would say that i was full with a slice of pizza and 7 to count, penne...got a little moody afterwards cause was stuffed...lol",0,pasta penne be pretty extra buttery creamy mean big task diggest tasty first say be full slice pizza count penne get little moody afterwards cause be stuff,NN NN VB JJ JJ JJ JJ VB JJ NN VB JJ JJ VB VB JJ NN NN VB NN VB JJ JJ RB NN VB VB,"[pasta/NN, penne/NN, be/VB, pretty/JJ, extra/JJ, buttery/JJ, creamy/JJ, mean/VB, big/JJ, task/NN, diggest/VB, tasty/JJ, first/JJ, say/VB, be/VB, full/JJ, slice/NN, pizza/NN, count/VB, penne/NN, get/VB, little/JJ, moody/JJ, afterwards/RB, cause/NN, be/VB, stuff/VB]"
+"But, they were too big for the bun.",0,be too big bun,VB RB JJ NN,"[be/VB, too/RB, big/JJ, bun/NN]"
+Please be aware that it's CASH or AMEX only!,1,be aware cash amex only,VB JJ NN RB RB,"[be/VB, aware/JJ, cash/NN, amex/RB, only/RB]"
+"The svc can be a bit rude at times, esp if you have big group, but overall the restaurant is a must!",2,svc be bit rude time esp have big group restaurant be,NN VB JJ JJ NN RB VB JJ NN NN VB,"[svc/NN, be/VB, bit/JJ, rude/JJ, time/NN, esp/RB, have/VB, big/JJ, group/NN, restaurant/NN, be/VB]"
+I would highly recommand requesting a table by the window.,2,highly recommand request table window,RB VB VB NN NN,"[highly/RB, recommand/VB, request/VB, table/NN, window/NN]"
+MMmmm... it was delicious.,2,mmmmm be delicious,NN VB JJ,"[mmmmm/NN, be/VB, delicious/JJ]"
+We were planning to get dessert but the waitress basically through the bill at us before we had a chance to order.,0,be plan get dessert waitress basically bill have chance order,VB VB VB NN NN RB NN VB NN NN,"[be/VB, plan/VB, get/VB, dessert/NN, waitress/NN, basically/RB, bill/NN, have/VB, chance/NN, order/NN]"
+it's delicious!,2,delicious,JJ,[delicious/JJ]
+Drawbacks: service is slow and they don't toast!,0,drawback service be slow don toast,NN NN VB JJ VB NN,"[drawback/NN, service/NN, be/VB, slow/JJ, don/VB, toast/NN]"
+"Guacamole+shrimp appetizer was really great, we both had the filet, very good, didn't much like the frites that came with, but the filet was so good, neither of us cared.",2,guacamole shrimp appetizer be really great have filet very good didn much frite come filet be so good care,NN NN NN VB RB JJ VB NN RB JJ VB RB NN VB NN VB RB JJ VB,"[guacamole/NN, shrimp/NN, appetizer/NN, be/VB, really/RB, great/JJ, have/VB, filet/NN, very/RB, good/JJ, didn/VB, much/RB, frite/NN, come/VB, filet/NN, be/VB, so/RB, good/JJ, care/VB]"
+The cold appetizer dishes taste like the way I remember them to taste when I was growing up in Taiwan.,2,cold appetizer dish taste way remember taste be grow taiwan,JJ NN NN NN NN VB VB VB VB NN,"[cold/JJ, appetizer/NN, dish/NN, taste/NN, way/NN, remember/VB, taste/VB, be/VB, grow/VB, taiwan/NN]"
+"We ordered the chicken casserole, but what we got were a few small pieces of chicken, all dark meat and on the bone.",0,order chicken casserole get be few small piece chicken dark meat bone,VB NN NN VB VB JJ JJ NN NN JJ NN NN,"[order/VB, chicken/NN, casserole/NN, get/VB, be/VB, few/JJ, small/JJ, piece/NN, chicken/NN, dark/JJ, meat/NN, bone/NN]"
+"Eating in, the atmosphere saves it, but at your desk, it's a very disappointing experience.",2,eating atmosphere save desk very disappointing experience,NN NN VB NN RB JJ NN,"[eating/NN, atmosphere/NN, save/VB, desk/NN, very/RB, disappointing/JJ, experience/NN]"
+Guaranteed to be a tasty experience!),2,guarantee be tasty experience,VB VB JJ NN,"[guarantee/VB, be/VB, tasty/JJ, experience/NN]"
+We even had a visit from the Manager who wanted to make sure we were enjoying ourselves.,2,even have visit manager want make sure be enjoy,RB VB NN NN VB VB JJ VB VB,"[even/RB, have/VB, visit/NN, manager/NN, want/VB, make/VB, sure/JJ, be/VB, enjoy/VB]"
+The food was exceptional.,2,food be exceptional,NN VB JJ,"[food/NN, be/VB, exceptional/JJ]"
+"The food is good, especially their more basic dishes, and the drinks are delicious.",2,food be good especially more basic dish drink be delicious,NN VB JJ RB JJ JJ NN NN VB JJ,"[food/NN, be/VB, good/JJ, especially/RB, more/JJ, basic/JJ, dish/NN, drink/NN, be/VB, delicious/JJ]"
+"Great friendly service, Fast seating, Fast Delivery, Excellent sushi.",2,great friendly service fast seating fast delivery excellent sushi,JJ JJ NN JJ NN JJ NN JJ NN,"[great/JJ, friendly/JJ, service/NN, fast/JJ, seating/NN, fast/JJ, delivery/NN, excellent/JJ, sushi/NN]"
+I'm not picky - but it was actually gross.,0,not picky be actually gross,RB JJ VB RB JJ,"[not/RB, picky/JJ, be/VB, actually/RB, gross/JJ]"
+Personal pans are the perfect size for those hungry nights.,2,personal pan be perfect size hungry night,JJ NN VB JJ NN JJ NN,"[personal/JJ, pan/NN, be/VB, perfect/JJ, size/NN, hungry/JJ, night/NN]"
+Quite simply it's like stepping out of Manhattan and into a haven of tranquility.,2,quite simply step manhattan haven tranquility,RB RB VB JJ NN NN,"[quite/RB, simply/RB, step/VB, manhattan/JJ, haven/NN, tranquility/NN]"
+I had to ask her three times before she finally came back with the dish Ive requested.,0,have ask time finally come back dish ive request,VB VB NN RB VB RB NN VB VB,"[have/VB, ask/VB, time/NN, finally/RB, come/VB, back/RB, dish/NN, ive/VB, request/VB]"
+Nice value.,2,nice value,JJ NN,"[nice/JJ, value/NN]"
+I started out with a Bombay beer which was big enough for two.,2,start out bombay beer be big enough,VB RB JJ NN VB JJ RB,"[start/VB, out/RB, bombay/JJ, beer/NN, be/VB, big/JJ, enough/RB]"
+The service was attentive.,2,service be attentive,NN VB JJ,"[service/NN, be/VB, attentive/JJ]"
+But the staff was so horrible to us.,0,staff be so horrible,NN VB RB JJ,"[staff/NN, be/VB, so/RB, horrible/JJ]"
+Although they do the typical what kind of water would you like questions the service was good and overall very relaxing to place to eat.,2,do typical kind water question service be good overall very relaxing place eat,VB JJ NN NN NN NN VB JJ JJ RB JJ VB VB,"[do/VB, typical/JJ, kind/NN, water/NN, question/NN, service/NN, be/VB, good/JJ, overall/JJ, very/RB, relaxing/JJ, place/VB, eat/VB]"
+My boyfriend and I went there to celebrate my birthday the other night and all I can say is that it was magnificent.,2,boyfriend go there celebrate birthday other night say be be magnificent,NN VB RB VB NN JJ NN VB VB VB JJ,"[boyfriend/NN, go/VB, there/RB, celebrate/VB, birthday/NN, other/JJ, night/NN, say/VB, be/VB, be/VB, magnificent/JJ]"
+I think I've had some the best meals of my life at minnow.,2,think ve have best meal life minnow,VB NN VB JJ NN NN RB,"[think/VB, ve/NN, have/VB, best/JJ, meal/NN, life/NN, minnow/RB]"
+This place is always very crowded and popular.,2,place be always very crowd popular,NN VB RB RB VB JJ,"[place/NN, be/VB, always/RB, very/RB, crowd/VB, popular/JJ]"
+Consistently good Japanese Tapas.,2,consistently good japanese tapas,RB JJ JJ NN,"[consistently/RB, good/JJ, japanese/JJ, tapas/NN]"
+"Despite a slightly limited menu, everything prepared is done to perfection, ultra fresh and a work of food art.",2,slightly limited menu everything prepare be do perfection ultra fresh work food art,RB JJ NN NN VB VB VB NN JJ JJ NN NN NN,"[slightly/RB, limited/JJ, menu/NN, everything/NN, prepare/VB, be/VB, do/VB, perfection/NN, ultra/JJ, fresh/JJ, work/NN, food/NN, art/NN]"
+This is a nice pizza place with good selection of thin crust pizza including the Basil slice.,2,be nice pizza place good selection thin crust pizza include basil slice,VB JJ NN NN JJ NN JJ NN NN VB NN NN,"[be/VB, nice/JJ, pizza/NN, place/NN, good/JJ, selection/NN, thin/JJ, crust/NN, pizza/NN, include/VB, basil/NN, slice/NN]"
+The food was lousy - too sweet or too salty and the portions tiny.,0,food be lousy too sweet too salty portion tiny,NN VB JJ RB JJ RB JJ NN JJ,"[food/NN, be/VB, lousy/JJ, too/RB, sweet/JJ, too/RB, salty/JJ, portion/NN, tiny/JJ]"
+"Still, any quibbles about the bill were off-set by the pour-your-own measures of liquers which were courtesey of the house...",1,still quibble bill be off set pour own measure liquer be courtesey house,RB NN NN VB RB NN NN JJ NN NN VB NN NN,"[still/RB, quibble/NN, bill/NN, be/VB, off/RB, set/NN, pour/NN, own/JJ, measure/NN, liquer/NN, be/VB, courtesey/NN, house/NN]"
+A little crowded but they move that line really fast!,0,little crowded move line really fast,JJ JJ VB NN RB JJ,"[little/JJ, crowded/JJ, move/VB, line/NN, really/RB, fast/JJ]"
+It is expensive but well worth the money.,2,be expensive well money,VB JJ RB NN,"[be/VB, expensive/JJ, well/RB, money/NN]"
+Service was very prompt but slightly rushed.,2,service be very prompt slightly rush,NN VB RB JJ RB VB,"[service/NN, be/VB, very/RB, prompt/JJ, slightly/RB, rush/VB]"
+Friendly staff that actually lets you enjoy your meal and the company you're with.,2,friendly staff actually let enjoy meal company re,JJ NN RB VB VB NN NN NN,"[friendly/JJ, staff/NN, actually/RB, let/VB, enjoy/VB, meal/NN, company/NN, re/NN]"
+"The whole set up is truly unprofessional and I wish Cafe Noir would get some good staff, because despite the current one this is a great place.",2,whole set be truly unprofessional wish cafe get good staff current one be great place,VB VB VB RB JJ NN NN VB JJ NN JJ NN VB JJ NN,"[whole/VB, set/VB, be/VB, truly/RB, unprofessional/JJ, wish/NN, cafe/NN, get/VB, good/JJ, staff/NN, current/JJ, one/NN, be/VB, great/JJ, place/NN]"
+Wait staff is blantently unappreciative of your business but its the best pie on the UWS!,0,wait staff be blantently unappreciative business best pie uws,JJ NN VB RB JJ NN JJ NN NN,"[wait/JJ, staff/NN, be/VB, blantently/RB, unappreciative/JJ, business/NN, best/JJ, pie/NN, uws/NN]"
+The lobster sandwich is $24 and although it was good it was not nearly enough to warrant that price.,0,lobster sandwich be be good be not nearly enough warrant price,NN NN VB VB JJ VB RB RB JJ VB NN,"[lobster/NN, sandwich/NN, be/VB, be/VB, good/JJ, be/VB, not/RB, nearly/RB, enough/JJ, warrant/VB, price/NN]"
+"Also, specify if you like your food spicy- its rather bland if you don't.",0,also specify food spicy rather bland don,RB VB NN JJ RB JJ VB,"[also/RB, specify/VB, food/NN, spicy/JJ, rather/RB, bland/JJ, don/VB]"
+The view is breathtaking the service is top notch... the ambiance is wonderfull.,2,view be breathtaking service be top notch ambiance be wonderfull,NN VB JJ NN VB JJ NN NN VB JJ,"[view/NN, be/VB, breathtaking/JJ, service/NN, be/VB, top/JJ, notch/NN, ambiance/NN, be/VB, wonderfull/JJ]"
+No thanks!!!,0,thank,NN,[thank/NN]
+"They never brought us complimentary noodles, ignored repeated requests for sugar, and threw our dishes on the table.",0,never bring complimentary noodle ignore repeated request sugar throw dish table,RB VB JJ NN VB JJ NN NN VB NN NN,"[never/RB, bring/VB, complimentary/JJ, noodle/NN, ignore/VB, repeated/JJ, request/NN, sugar/NN, throw/VB, dish/NN, table/NN]"
+I have to say I have never had a disapointing meal here.,2,have say have never have disapointing meal here,VB VB VB RB VB NN NN RB,"[have/VB, say/VB, have/VB, never/RB, have/VB, disapointing/NN, meal/NN, here/RB]"
+Zero ambiance to boot.,0,ambiance boot,NN NN,"[ambiance/NN, boot/NN]"
+"To sum it up: Service varies from good to mediorce, depending on which waiter you get; generally it is just average Ok. ",1,sum service vary good mediorce depend waiter get generally be just average,VB NN VB JJ VB VB NN VB RB VB RB JJ,"[sum/VB, service/NN, vary/VB, good/JJ, mediorce/VB, depend/VB, waiter/NN, get/VB, generally/RB, be/VB, just/RB, average/JJ]"
+"The wait staff is very freindly, they make it feel like you're eating in a freindly little european town.",2,wait staff be very freindly make feel re eating freindly little european town,JJ NN VB RB RB VB VB NN NN JJ JJ JJ NN,"[wait/JJ, staff/NN, be/VB, very/RB, freindly/RB, make/VB, feel/VB, re/NN, eating/NN, freindly/JJ, little/JJ, european/JJ, town/NN]"
+"If you venture off the island of Manhattan and can't seem to find a great Italian restaurant, drive to Corona.",2,venture island manhattan seem find great italian restaurant drive corona,NN NN JJ VB VB JJ JJ NN NN NN,"[venture/NN, island/NN, manhattan/JJ, seem/VB, find/VB, great/JJ, italian/JJ, restaurant/NN, drive/NN, corona/NN]"
+"Excellent atmosphere, delicious dishes good and friendly service.",2,excellent atmosphere delicious dish good friendly service,JJ NN JJ NN JJ JJ NN,"[excellent/JJ, atmosphere/NN, delicious/JJ, dish/NN, good/JJ, friendly/JJ, service/NN]"
+Will never be back.,0,never be back,RB VB RB,"[never/RB, be/VB, back/RB]"
+"Calling the place Hampton Chutney Co. does warn you that these folks offer more style than substance, but in this unattractive room with unhelpful clerks there was a dearth of the former too.",0,call place hampton chutney co do folk offer more style substance unattractive room unhelpful clerk be dearth former too,VB NN NN NN NN VB NN VB JJ NN NN JJ NN JJ NN VB NN JJ RB,"[call/VB, place/NN, hampton/NN, chutney/NN, co/NN, do/VB, folk/NN, offer/VB, more/JJ, style/NN, substance/NN, unattractive/JJ, room/NN, unhelpful/JJ, clerk/NN, be/VB, dearth/NN, former/JJ, too/RB]"
+"They don't concern much of customer's health, just want to make money.",0,don concern much customer health just want make money,VB NN JJ NN NN RB VB VB NN,"[don/VB, concern/NN, much/JJ, customer/NN, health/NN, just/RB, want/VB, make/VB, money/NN]"
+"The ambience is pretty and nice for conversation, so a casual lunch here would probably be best.",2,ambience be pretty nice conversation casual lunch here probably be best,NN VB RB JJ NN JJ NN RB RB VB RB,"[ambience/NN, be/VB, pretty/RB, nice/JJ, conversation/NN, casual/JJ, lunch/NN, here/RB, probably/RB, be/VB, best/RB]"
+"We have been to this place many times, and always have great food, wine, and service.",2,have be place many time always have great food wine service,VB VB NN JJ NN RB VB JJ NN NN NN,"[have/VB, be/VB, place/NN, many/JJ, time/NN, always/RB, have/VB, great/JJ, food/NN, wine/NN, service/NN]"
+This is the perfect date spot for Williamsburg couples.,2,be perfect date spot williamsburg couple,VB JJ NN NN NN NN,"[be/VB, perfect/JJ, date/NN, spot/NN, williamsburg/NN, couple/NN]"
+Awsome Pizza especially the Margheritta slice.,2,pizza especially margheritta slice,NN RB JJ NN,"[pizza/NN, especially/RB, margheritta/JJ, slice/NN]"
+Simply some good tasting Chinese food at incredible prices...,2,simply good taste chinese food incredible price,RB JJ VB JJ NN JJ NN,"[simply/RB, good/JJ, taste/VB, chinese/JJ, food/NN, incredible/JJ, price/NN]"
+Avoid this place!,0,avoid place,VB NN,"[avoid/VB, place/NN]"
+Everyone was more then happy with his choices.,2,everyone be more then happy choice,NN VB RB RB JJ NN,"[everyone/NN, be/VB, more/RB, then/RB, happy/JJ, choice/NN]"
